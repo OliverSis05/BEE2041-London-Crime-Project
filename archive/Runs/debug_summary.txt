@@ -1,0 +1,56 @@
+===== CURRENT FOLDER =====
+/Users/oliver/Documents/bee2041-london-crime-project
+
+===== FILES IN FOLDER =====
+total 48
+drwxr-xr-x@ 13 oliver  staff    416 21 Apr 02:42 .
+drwx------@ 16 oliver  staff    512 21 Apr 02:27 ..
+-rw-r--r--@  1 oliver  staff  10244 21 Apr 00:59 .DS_Store
+drwxr-xr-x  12 oliver  staff    384 21 Apr 01:00 .git
+-rw-r--r--   1 oliver  staff     56 20 Apr 23:40 .gitignore
+drwxr-xr-x   8 oliver  staff    256 21 Apr 01:00 .venv
+drwxr-xr-x   5 oliver  staff    160 21 Apr 02:27 data
+-rw-r--r--   1 oliver  staff    109 21 Apr 02:42 debug_summary.txt
+drwxr-xr-x   3 oliver  staff     96 20 Apr 23:37 docs
+drwxr-xr-x   4 oliver  staff    128 20 Apr 23:36 output
+-rw-r--r--   1 oliver  staff      0 20 Apr 23:39 README.md
+-rw-r--r--   1 oliver  staff     35 20 Apr 23:39 requirements.txt
+drwxr-xr-x   6 oliver  staff    192 21 Apr 02:26 src
+
+===== PYTHON VERSION =====
+Python 3.12.7
+
+===== PYTHON LOCATION =====
+/Users/oliver/Documents/bee2041-london-crime-project/.venv/bin/python3
+
+===== PIP VERSION =====
+pip 24.2 from /Users/oliver/Documents/bee2041-london-crime-project/.venv/lib/python3.12/site-packages/pip (python 3.12)
+
+===== INSTALLED KEY PACKAGES =====
+ipykernel                 7.2.0
+jupyter                   1.1.1
+jupyter_client            8.8.0
+jupyter-console           6.6.3
+jupyter_core              5.9.1
+jupyter-events            0.12.1
+jupyter-lsp               2.3.1
+jupyter_server            2.17.0
+jupyter_server_terminals  0.5.4
+jupyterlab                4.5.6
+jupyterlab_pygments       0.3.0
+jupyterlab_server         2.28.0
+jupyterlab_widgets        3.0.16
+matplotlib                3.10.8
+matplotlib-inline         0.2.1
+notebook                  7.5.5
+notebook_shim             0.2.4
+numpy                     2.4.4
+openpyxl                  3.1.5
+pandas                    3.0.2
+
+===== PYTHON AND NOTEBOOK FILES =====
+./src/02_inspect_data.py
+./src/03_clean_data_backup.py
+./src/03_clean_data.py
+./src/04_check_clean_data.py
+

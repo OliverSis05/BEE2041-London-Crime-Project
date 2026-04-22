@@ -1,0 +1,3 @@
+R-squared: 0.2937
+Strongest predictor: population_density (0.5946)
+Weakest predictor: imd_value (0.0676)

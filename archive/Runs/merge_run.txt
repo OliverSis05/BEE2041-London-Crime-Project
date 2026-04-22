@@ -1,0 +1,71 @@
+
+Loaded crime_clean.csv: (73917, 6)
+
+Loaded population_clean.csv: (198, 3)
+
+Loaded density_clean.csv: (33, 2)
+
+Loaded labour_clean.csv: (2614, 4)
+
+Loaded deprivation_clean.csv: (33, 2)
+
+================================================================================
+CRIME MONTHLY
+================================================================================
+Shape: (2304, 4)
+                borough  year  month  crime_count
+0  Barking and Dagenham  2019      1       1553.0
+1  Barking and Dagenham  2019      2       1537.0
+2  Barking and Dagenham  2019      3       1622.0
+3  Barking and Dagenham  2019      4       1602.0
+4  Barking and Dagenham  2019      5       1750.0
+
+Labour duplicate borough-year-month rows: 238
+Fixing labour duplicates by taking the maximum claimant_count per borough-year-month...
+Labour shape after fix: (2376, 4)
+
+================================================================================
+COMMON BOROUGHS
+================================================================================
+Count: 32
+['Barking and Dagenham', 'Barnet', 'Bexley', 'Brent', 'Bromley', 'Camden', 'Croydon', 'Ealing', 'Enfield', 'Greenwich', 'Hackney', 'Hammersmith and Fulham', 'Haringey', 'Harrow', 'Havering', 'Hillingdon', 'Hounslow', 'Islington', 'Kensington and Chelsea', 'Kingston upon Thames', 'Lambeth', 'Lewisham', 'Merton', 'Newham', 'Redbridge', 'Richmond upon Thames', 'Southwark', 'Sutton', 'Tower Hamlets', 'Waltham Forest', 'Wandsworth', 'Westminster']
+
+================================================================================
+FINAL MERGED DATASET
+================================================================================
+Saved to: /Users/oliver/Documents/bee2041-london-crime-project/data/final/london_borough_month_panel.csv
+Shape: (2304, 11)
+Columns: ['borough', 'date', 'year', 'month', 'crime_count', 'population', 'crime_per_1000', 'claimant_count', 'claimant_per_1000', 'population_density', 'imd_value']
+
+First 10 rows:
+                borough       date  ...  population_density  imd_value
+0  Barking and Dagenham 2019-01-01  ...         5892.712927  32.883473
+1  Barking and Dagenham 2019-02-01  ...         5892.712927  32.883473
+2  Barking and Dagenham 2019-03-01  ...         5892.712927  32.883473
+3  Barking and Dagenham 2019-04-01  ...         5892.712927  32.883473
+4  Barking and Dagenham 2019-05-01  ...         5892.712927  32.883473
+5  Barking and Dagenham 2019-06-01  ...         5892.712927  32.883473
+6  Barking and Dagenham 2019-07-01  ...         5892.712927  32.883473
+7  Barking and Dagenham 2019-08-01  ...         5892.712927  32.883473
+8  Barking and Dagenham 2019-09-01  ...         5892.712927  32.883473
+9  Barking and Dagenham 2019-10-01  ...         5892.712927  32.883473
+
+[10 rows x 11 columns]
+
+Missing values:
+borough               0
+date                  0
+year                  0
+month                 0
+crime_count           0
+population            0
+crime_per_1000        0
+claimant_count        0
+claimant_per_1000     0
+population_density    0
+imd_value             0
+dtype: int64
+
+Duplicate rows: 0
+Unique boroughs: 32
+Year range: 2019 to 2024

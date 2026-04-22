@@ -1,0 +1,142 @@
+
+================================================================================
+MERGED DATASET OVERVIEW
+================================================================================
+Shape: (2304, 11)
+Columns: ['borough', 'date', 'year', 'month', 'crime_count', 'population', 'crime_per_1000', 'claimant_count', 'claimant_per_1000', 'population_density', 'imd_value']
+
+First 10 rows:
+                borough       date  year  month  crime_count  population  crime_per_1000  claimant_count  claimant_per_1000  population_density  imd_value
+0  Barking and Dagenham 2019-01-01  2019      1       1553.0      218828        7.096898            4325          19.764381         5892.712927  32.883473
+1  Barking and Dagenham 2019-02-01  2019      2       1537.0      218828        7.023781            4620          21.112472         5892.712927  32.883473
+2  Barking and Dagenham 2019-03-01  2019      3       1622.0      218828        7.412214            4695          21.455207         5892.712927  32.883473
+3  Barking and Dagenham 2019-04-01  2019      4       1602.0      218828        7.320818            4815          22.003583         5892.712927  32.883473
+4  Barking and Dagenham 2019-05-01  2019      5       1750.0      218828        7.997148            4940          22.574808         5892.712927  32.883473
+5  Barking and Dagenham 2019-06-01  2019      6       1627.0      218828        7.435063            5065          23.146033         5892.712927  32.883473
+6  Barking and Dagenham 2019-07-01  2019      7       1747.0      218828        7.983439            5050          23.077486         5892.712927  32.883473
+7  Barking and Dagenham 2019-08-01  2019      8       1481.0      218828        6.767872            5105          23.328824         5892.712927  32.883473
+8  Barking and Dagenham 2019-09-01  2019      9       1576.0      218828        7.202003            5180          23.671559         5892.712927  32.883473
+9  Barking and Dagenham 2019-10-01  2019     10       1731.0      218828        7.910322            5295          24.197086         5892.712927  32.883473
+
+Missing values:
+borough               0
+date                  0
+year                  0
+month                 0
+crime_count           0
+population            0
+crime_per_1000        0
+claimant_count        0
+claimant_per_1000     0
+population_density    0
+imd_value             0
+dtype: int64
+
+Duplicate rows: 0
+Unique boroughs: 32
+Year range: 2019 to 2024
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+                     count           mean  ...            75%            max
+crime_count         2304.0    2211.883247  ...    2584.500000    9508.000000
+population          2304.0  278417.770833  ...  328607.500000  409342.000000
+crime_per_1000      2304.0       8.206685  ...       8.880441      45.133268
+claimant_count      2304.0    9884.381510  ...   13191.250000   28090.000000
+claimant_per_1000   2304.0      34.780141  ...      43.964513      82.760473
+population_density  2304.0    7748.786786  ...   11181.317661   16037.727467
+imd_value           2304.0      21.410256  ...      25.858258      32.883473
+
+[7 rows x 8 columns]
+
+================================================================================
+TOP 10 BOROUGHS BY AVERAGE CRIME PER 1000
+================================================================================
+               borough  avg_crime_count  avg_crime_per_1000  avg_claimant_count  avg_claimant_per_1000  population_density  imd_value
+           Westminster      6005.111111           28.765556         6729.027778              32.358292        11838.564563  20.331844
+                Camden      2963.736111           13.720504         7283.750000              33.843571        11594.546772  19.981053
+Kensington and Chelsea      1760.277778           12.088294         3890.694444              26.774631        13139.296370  22.019301
+             Islington      2293.527778           10.378622         9137.361111              41.425876        16037.727467  27.706041
+               Hackney      2652.513889           10.046825        12394.375000              47.023557        14790.258294  32.868201
+             Southwark      2954.819444            9.480030        13127.986111              42.196690        11166.988826  26.041289
+Hammersmith and Fulham      1718.791667            9.200149         6930.208333              37.187046        11224.304165  22.326221
+              Haringey      2419.236111            9.088257        13280.347222              50.036274         9604.847724  27.587200
+               Lambeth      2825.958333            8.807501        13984.861111              43.644600        12485.026595  25.797247
+         Tower Hamlets      2791.791667            8.763724        13992.013889              43.957699        16035.517628  27.970458
+
+================================================================================
+BOTTOM 10 BOROUGHS BY AVERAGE CRIME PER 1000
+================================================================================
+             borough  avg_crime_count  avg_crime_per_1000  avg_claimant_count  avg_claimant_per_1000  population_density  imd_value
+           Redbridge      1984.069444            6.322071        10329.652778              32.917269         5422.109861  16.907851
+              Barnet      2340.791667            5.941252        11805.694444              29.974437         4577.022673  15.953626
+            Havering      1566.166667            5.879437         6798.333333              25.554131         2292.049538  16.350520
+             Bromley      1932.763889            5.826576         6926.527778              20.889235         2216.226991  13.969447
+Kingston upon Thames       959.805556            5.645328         3535.972222              20.817583         4819.520457  11.303245
+              Bexley      1344.597222            5.390072         5449.791667              21.864926         4126.712502  15.882363
+              Merton      1144.861111            5.281490         6273.958333              28.954162         5566.045403  14.347331
+              Sutton      1097.513889            5.205171         4591.458333              21.780185         4729.584461  13.820281
+Richmond upon Thames       993.527778            5.053657         3439.027778              17.504832         3473.787985   9.423122
+              Harrow      1303.277778            4.933011         6821.388889              25.830550         5060.545261  14.860883
+
+================================================================================
+YEARLY SUMMARY
+================================================================================
+ year  total_crime  mean_crime_per_1000  total_claimants  mean_claimant_per_1000
+ 2019     900097.0             8.765756          1976225               18.277444
+ 2020     768036.0             7.375746          4610035               42.585127
+ 2021     770627.0             7.460462          5215765               48.415072
+ 2022     835151.0             8.119906          3536895               32.516883
+ 2023     896049.0             8.653527          3476225               31.485089
+ 2024     926219.0             8.864713          3958470               35.401230
+
+================================================================================
+CORRELATION MATRIX
+================================================================================
+                    crime_count  crime_per_1000  ...  population_density  imd_value
+crime_count            1.000000        0.872289  ...            0.428593   0.380307
+crime_per_1000         0.872289        1.000000  ...            0.487700   0.231239
+claimant_count         0.227691       -0.075463  ...            0.179787   0.520872
+claimant_per_1000      0.163768        0.035813  ...            0.334260   0.564039
+population_density     0.428593        0.487700  ...            1.000000   0.610809
+imd_value              0.380307        0.231239  ...            0.610809   1.000000
+
+[6 rows x 6 columns]
+
+================================================================================
+FILES CREATED
+================================================================================
+Tables folder: /Users/oliver/Documents/bee2041-london-crime-project/output/exploration/tables
+Figures folder: /Users/oliver/Documents/bee2041-london-crime-project/output/exploration/figures
+
+Saved tables:
+- borough_summary.csv
+- bottom10_boroughs_by_crime_per_1000.csv
+- correlation_matrix.csv
+- monthly_summary.csv
+- summary_statistics.csv
+- top10_boroughs_by_crime_per_1000.csv
+- yearly_summary.csv
+
+Saved figures:
+- claimant_vs_crime_rate.png
+- density_vs_crime_rate.png
+- deprivation_vs_crime_rate.png
+- mean_crime_per_1000_over_time.png
+- top10_boroughs_crime_per_1000.png
+- total_crime_over_time.png
+
+================================================================================
+QUICK TAKEAWAYS
+================================================================================
+Highest average crime per 1000: Westminster (28.77)
+Lowest average crime per 1000: Harrow (4.93)
+
+Strongest simple correlations with crime_per_1000:
+crime_count           0.872289
+population_density    0.487700
+imd_value             0.231239
+claimant_count       -0.075463
+claimant_per_1000     0.035813
+Name: crime_per_1000, dtype: float64

@@ -1,0 +1,48 @@
+================================================================================
+FINAL RESULTS SUMMARY
+================================================================================
+
+1. DATASET OVERVIEW
+- The final merged dataset contains 2,304 rows, representing 32 London boroughs observed monthly from 2019 to 2024.
+- The mean crime rate across the panel is 8.21 crimes per 1,000 population.
+- Across the full panel, crime per 1,000 ranges from 3.56 to 45.13.
+
+2. BOROUGH-LEVEL FINDINGS
+- The borough with the highest average crime per 1,000 is Westminster at 28.77.
+- The borough with the lowest average crime per 1,000 is Harrow at 4.93.
+- The gap between the highest and lowest borough average is 23.83 crimes per 1,000.
+
+3. TIME TREND FINDINGS
+- The highest yearly mean crime per 1,000 occurs in 2024 at 8.86.
+- The lowest yearly mean crime per 1,000 occurs in 2020 at 7.38.
+- Crime falls in the early part of the period and then rises again by 2023–2024.
+
+4. SIMPLE RELATIONSHIPS
+- The strongest simple correlation with crime per 1,000 is population_density (0.5293).
+- The second strongest simple correlation is imd_value (0.2510).
+- The weakest simple correlation is claimant_per_1000 (0.1963).
+
+5. COMBINED MODEL FINDINGS
+- In the standardised regression comparison, the strongest predictor is population_density (0.5946).
+- The second strongest predictor is claimant_per_1000 (-0.1937).
+- The weakest predictor is imd_value (0.0676).
+- The model R-squared is 0.2937.
+
+6. INTERPRETATION
+- Population density appears to be the strongest factor associated with differences in crime rates across boroughs.
+- Deprivation remains positively related to crime, but its effect is much smaller once the other predictors are considered together.
+- Claimant rate does not emerge as the dominant predictor in the combined model and becomes weaker once density and deprivation are included.
+
+7. REPORT-READY CONCLUSION
+The analysis suggests that variation in crime rates across London boroughs is most strongly associated with population density.
+More densely populated boroughs tend to record higher crime per 1,000 population.
+Deprivation shows a smaller positive relationship with crime, while claimant rate appears comparatively weak once the predictors are assessed together.
+This means that, within this borough-level dataset, density provides the clearest explanation of differences in recorded crime rates, although the model explains only part of the overall variation and should therefore be interpreted as evidence of association rather than proof of causation.
+
+8. CAUTION / LIMITATION
+These findings are based on borough-level averages and a simple standardised regression comparison.
+They identify patterns of association, not definitive causal effects.
+
+================================================================================
+END OF SUMMARY
+================================================================================

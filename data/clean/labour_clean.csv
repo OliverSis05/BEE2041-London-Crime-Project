@@ -1,0 +1,2615 @@
+borough,year,month,claimant_count
+Barking and Dagenham,2019,1,4325
+Barking and Dagenham,2019,2,4620
+Barking and Dagenham,2019,3,4695
+Barking and Dagenham,2019,4,4815
+Barking and Dagenham,2019,5,4940
+Barking and Dagenham,2019,6,5065
+Barking and Dagenham,2019,7,5050
+Barking and Dagenham,2019,8,5105
+Barking and Dagenham,2019,9,5180
+Barking and Dagenham,2019,9,5
+Barking and Dagenham,2019,10,5295
+Barking and Dagenham,2019,11,5420
+Barking and Dagenham,2019,12,5430
+Barking and Dagenham,2020,1,5445
+Barking and Dagenham,2020,2,5770
+Barking and Dagenham,2020,3,5850
+Barking and Dagenham,2020,4,8315
+Barking and Dagenham,2020,5,13500
+Barking and Dagenham,2020,6,13165
+Barking and Dagenham,2020,7,13530
+Barking and Dagenham,2020,8,13860
+Barking and Dagenham,2020,9,13645
+Barking and Dagenham,2020,9,13
+Barking and Dagenham,2020,10,13385
+Barking and Dagenham,2020,11,14075
+Barking and Dagenham,2020,12,14330
+Barking and Dagenham,2021,1,13985
+Barking and Dagenham,2021,2,14895
+Barking and Dagenham,2021,2,15
+Barking and Dagenham,2021,3,14940
+Barking and Dagenham,2021,4,14965
+Barking and Dagenham,2021,5,14305
+Barking and Dagenham,2021,6,13300
+Barking and Dagenham,2021,7,13195
+Barking and Dagenham,2021,8,12505
+Barking and Dagenham,2021,9,11635
+Barking and Dagenham,2021,10,11105
+Barking and Dagenham,2021,11,10605
+Barking and Dagenham,2021,12,10300
+Barking and Dagenham,2022,1,9865
+Barking and Dagenham,2022,2,9950
+Barking and Dagenham,2022,3,9610
+Barking and Dagenham,2022,4,9220
+Barking and Dagenham,2022,5,9080
+Barking and Dagenham,2022,6,8940
+Barking and Dagenham,2022,7,8775
+Barking and Dagenham,2022,8,8620
+Barking and Dagenham,2022,8,8
+Barking and Dagenham,2022,9,8695
+Barking and Dagenham,2022,9,8
+Barking and Dagenham,2022,10,8595
+Barking and Dagenham,2022,11,8735
+Barking and Dagenham,2022,12,8745
+Barking and Dagenham,2023,1,8590
+Barking and Dagenham,2023,1,8
+Barking and Dagenham,2023,2,8685
+Barking and Dagenham,2023,3,8995
+Barking and Dagenham,2023,4,9305
+Barking and Dagenham,2023,5,9085
+Barking and Dagenham,2023,6,9285
+Barking and Dagenham,2023,7,9495
+Barking and Dagenham,2023,8,9530
+Barking and Dagenham,2023,9,9620
+Barking and Dagenham,2023,9,9
+Barking and Dagenham,2023,10,9670
+Barking and Dagenham,2023,10,9
+Barking and Dagenham,2023,11,9585
+Barking and Dagenham,2023,11,9
+Barking and Dagenham,2023,12,9600
+Barking and Dagenham,2023,12,9
+Barking and Dagenham,2024,1,9555
+Barking and Dagenham,2024,2,9885
+Barking and Dagenham,2024,2,9
+Barking and Dagenham,2024,3,9885
+Barking and Dagenham,2024,3,9
+Barking and Dagenham,2024,4,9805
+Barking and Dagenham,2024,5,10110
+Barking and Dagenham,2024,6,10570
+Barking and Dagenham,2024,7,11865
+Barking and Dagenham,2024,8,11540
+Barking and Dagenham,2024,9,11465
+Barking and Dagenham,2024,10,11600
+Barking and Dagenham,2024,11,11470
+Barking and Dagenham,2024,12,11560
+Barnet,2019,1,4540
+Barnet,2019,2,4800
+Barnet,2019,3,4945
+Barnet,2019,4,5070
+Barnet,2019,5,5225
+Barnet,2019,6,5560
+Barnet,2019,7,5625
+Barnet,2019,8,5665
+Barnet,2019,9,5805
+Barnet,2019,10,6025
+Barnet,2019,11,6145
+Barnet,2019,12,6235
+Barnet,2020,1,6315
+Barnet,2020,2,6455
+Barnet,2020,2,3
+Barnet,2020,3,6690
+Barnet,2020,4,10680
+Barnet,2020,4,5
+Barnet,2020,5,17500
+Barnet,2020,6,17355
+Barnet,2020,7,17750
+Barnet,2020,8,18380
+Barnet,2020,9,18480
+Barnet,2020,10,18045
+Barnet,2020,11,18425
+Barnet,2020,12,18545
+Barnet,2021,1,18025
+Barnet,2021,2,19030
+Barnet,2021,3,18930
+Barnet,2021,4,19005
+Barnet,2021,5,17795
+Barnet,2021,6,16330
+Barnet,2021,7,15915
+Barnet,2021,8,15255
+Barnet,2021,9,14455
+Barnet,2021,9,7
+Barnet,2021,10,14035
+Barnet,2021,11,13505
+Barnet,2021,12,13125
+Barnet,2022,1,12690
+Barnet,2022,2,12495
+Barnet,2022,3,11965
+Barnet,2022,4,11555
+Barnet,2022,5,11345
+Barnet,2022,6,11250
+Barnet,2022,7,10905
+Barnet,2022,8,10825
+Barnet,2022,9,10955
+Barnet,2022,10,10905
+Barnet,2022,11,10995
+Barnet,2022,12,10985
+Barnet,2023,1,10695
+Barnet,2023,2,10765
+Barnet,2023,3,10845
+Barnet,2023,4,10945
+Barnet,2023,5,10585
+Barnet,2023,6,10790
+Barnet,2023,7,11000
+Barnet,2023,8,10805
+Barnet,2023,9,10895
+Barnet,2023,10,10785
+Barnet,2023,11,10795
+Barnet,2023,12,10930
+Barnet,2024,1,11035
+Barnet,2024,2,11360
+Barnet,2024,3,11265
+Barnet,2024,4,11110
+Barnet,2024,5,11430
+Barnet,2024,6,11795
+Barnet,2024,7,13545
+Barnet,2024,8,13190
+Barnet,2024,9,13260
+Barnet,2024,10,13485
+Barnet,2024,11,13105
+Barnet,2024,12,13060
+Bexley,2019,1,2175
+Bexley,2019,2,2410
+Bexley,2019,3,2595
+Bexley,2019,3,2
+Bexley,2019,4,2640
+Bexley,2019,5,2710
+Bexley,2019,6,2830
+Bexley,2019,7,2950
+Bexley,2019,8,3020
+Bexley,2019,9,3095
+Bexley,2019,10,3150
+Bexley,2019,11,3205
+Bexley,2019,12,3250
+Bexley,2020,1,3205
+Bexley,2020,2,3400
+Bexley,2020,3,3440
+Bexley,2020,4,6410
+Bexley,2020,5,9155
+Bexley,2020,6,8605
+Bexley,2020,7,8855
+Bexley,2020,8,9060
+Bexley,2020,9,8950
+Bexley,2020,10,8600
+Bexley,2020,11,8825
+Bexley,2020,12,8915
+Bexley,2021,1,8645
+Bexley,2021,2,9110
+Bexley,2021,3,9150
+Bexley,2021,4,8995
+Bexley,2021,5,8330
+Bexley,2021,6,7620
+Bexley,2021,6,6
+Bexley,2021,7,7470
+Bexley,2021,8,7120
+Bexley,2021,9,6585
+Bexley,2021,10,6215
+Bexley,2021,11,5820
+Bexley,2021,12,5570
+Bexley,2022,1,5285
+Bexley,2022,2,5245
+Bexley,2022,3,5100
+Bexley,2022,4,4870
+Bexley,2022,5,4730
+Bexley,2022,6,4715
+Bexley,2022,7,4615
+Bexley,2022,8,4630
+Bexley,2022,9,4645
+Bexley,2022,10,4705
+Bexley,2022,11,4745
+Bexley,2022,12,4705
+Bexley,2023,1,4565
+Bexley,2023,2,4540
+Bexley,2023,3,4615
+Bexley,2023,4,4850
+Bexley,2023,5,4760
+Bexley,2023,6,4890
+Bexley,2023,7,4955
+Bexley,2023,8,4935
+Bexley,2023,9,4925
+Bexley,2023,10,4955
+Bexley,2023,11,4905
+Bexley,2023,12,4980
+Bexley,2024,1,4950
+Bexley,2024,2,5125
+Bexley,2024,3,5155
+Bexley,2024,4,5000
+Bexley,2024,5,5125
+Bexley,2024,6,5220
+Bexley,2024,7,5625
+Bexley,2024,8,5635
+Bexley,2024,9,5710
+Bexley,2024,9,4
+Bexley,2024,10,5740
+Bexley,2024,10,4
+Bexley,2024,11,5580
+Bexley,2024,12,5575
+Brent,2019,1,5105
+Brent,2019,2,5185
+Brent,2019,3,5565
+Brent,2019,4,5880
+Brent,2019,5,6025
+Brent,2019,6,6330
+Brent,2019,7,6515
+Brent,2019,8,6750
+Brent,2019,9,6865
+Brent,2019,10,6975
+Brent,2019,10,4
+Brent,2019,11,7130
+Brent,2019,11,4
+Brent,2019,12,7240
+Brent,2020,1,7280
+Brent,2020,2,7690
+Brent,2020,3,7875
+Brent,2020,4,11970
+Brent,2020,5,20395
+Brent,2020,6,21135
+Brent,2020,7,21330
+Brent,2020,8,21620
+Brent,2020,9,22145
+Brent,2020,10,21990
+Brent,2020,11,22705
+Brent,2020,12,22885
+Brent,2021,1,22800
+Brent,2021,2,24125
+Brent,2021,3,24400
+Brent,2021,4,24230
+Brent,2021,4,14
+Brent,2021,5,22850
+Brent,2021,6,21215
+Brent,2021,7,20825
+Brent,2021,7,12
+Brent,2021,8,19795
+Brent,2021,9,18720
+Brent,2021,10,18165
+Brent,2021,11,17410
+Brent,2021,12,16460
+Brent,2022,1,16145
+Brent,2022,2,16015
+Brent,2022,3,15290
+Brent,2022,3,9
+Brent,2022,4,14745
+Brent,2022,5,14490
+Brent,2022,6,14245
+Brent,2022,7,13785
+Brent,2022,8,13705
+Brent,2022,8,8
+Brent,2022,9,13875
+Brent,2022,10,13865
+Brent,2022,11,14075
+Brent,2022,12,14105
+Brent,2023,1,13855
+Brent,2023,2,14050
+Brent,2023,3,14215
+Brent,2023,4,14495
+Brent,2023,5,14305
+Brent,2023,5,9
+Brent,2023,6,14600
+Brent,2023,7,14710
+Brent,2023,8,14655
+Brent,2023,9,14855
+Brent,2023,10,14985
+Brent,2023,11,14920
+Brent,2023,12,15200
+Brent,2024,1,15360
+Brent,2024,2,15800
+Brent,2024,3,15590
+Brent,2024,4,15505
+Brent,2024,5,15825
+Brent,2024,6,16430
+Brent,2024,7,18620
+Brent,2024,8,18340
+Brent,2024,9,18445
+Brent,2024,10,18500
+Brent,2024,11,18350
+Brent,2024,12,18155
+Bromley,2019,1,2990
+Bromley,2019,2,3175
+Bromley,2019,3,3295
+Bromley,2019,4,3440
+Bromley,2019,4,2
+Bromley,2019,5,3450
+Bromley,2019,5,2
+Bromley,2019,6,3640
+Bromley,2019,7,3690
+Bromley,2019,8,3785
+Bromley,2019,9,3975
+Bromley,2019,10,4040
+Bromley,2019,11,4130
+Bromley,2019,12,4085
+Bromley,2020,1,4050
+Bromley,2020,2,4225
+Bromley,2020,3,4280
+Bromley,2020,4,7045
+Bromley,2020,4,4
+Bromley,2020,5,11425
+Bromley,2020,6,11005
+Bromley,2020,7,11375
+Bromley,2020,8,11595
+Bromley,2020,9,11595
+Bromley,2020,10,11040
+Bromley,2020,11,11535
+Bromley,2020,12,11395
+Bromley,2021,1,11145
+Bromley,2021,2,11750
+Bromley,2021,3,11730
+Bromley,2021,4,11490
+Bromley,2021,5,10510
+Bromley,2021,6,9530
+Bromley,2021,6,5
+Bromley,2021,7,9285
+Bromley,2021,8,8825
+Bromley,2021,9,8365
+Bromley,2021,10,7940
+Bromley,2021,11,7545
+Bromley,2021,11,4
+Bromley,2021,12,7170
+Bromley,2022,1,6905
+Bromley,2022,2,6870
+Bromley,2022,3,6450
+Bromley,2022,4,6135
+Bromley,2022,5,5970
+Bromley,2022,6,5890
+Bromley,2022,7,5805
+Bromley,2022,8,5785
+Bromley,2022,9,5880
+Bromley,2022,10,5835
+Bromley,2022,11,5800
+Bromley,2022,12,5905
+Bromley,2023,1,5835
+Bromley,2023,2,5870
+Bromley,2023,3,5985
+Bromley,2023,4,6055
+Bromley,2023,5,5930
+Bromley,2023,6,6015
+Bromley,2023,7,6070
+Bromley,2023,8,6120
+Bromley,2023,9,6290
+Bromley,2023,10,6270
+Bromley,2023,11,6280
+Bromley,2023,12,6445
+Bromley,2024,1,6440
+Bromley,2024,2,6700
+Bromley,2024,3,6575
+Bromley,2024,4,6530
+Bromley,2024,5,6575
+Bromley,2024,6,6725
+Bromley,2024,7,7180
+Bromley,2024,8,7130
+Bromley,2024,9,7175
+Bromley,2024,10,7185
+Bromley,2024,11,7280
+Bromley,2024,12,7275
+Camden,2019,1,3105
+Camden,2019,2,3245
+Camden,2019,3,3375
+Camden,2019,4,3525
+Camden,2019,5,3580
+Camden,2019,6,3730
+Camden,2019,7,3855
+Camden,2019,8,3910
+Camden,2019,9,4030
+Camden,2019,10,4070
+Camden,2019,11,4125
+Camden,2019,12,4140
+Camden,2020,1,4130
+Camden,2020,2,4265
+Camden,2020,2,3
+Camden,2020,3,4315
+Camden,2020,3,3
+Camden,2020,4,7290
+Camden,2020,4,5
+Camden,2020,5,10200
+Camden,2020,6,10305
+Camden,2020,7,10545
+Camden,2020,8,10785
+Camden,2020,9,10875
+Camden,2020,10,10745
+Camden,2020,11,11060
+Camden,2020,12,11220
+Camden,2021,1,11070
+Camden,2021,2,11650
+Camden,2021,2,8
+Camden,2021,3,11690
+Camden,2021,3,8
+Camden,2021,4,11640
+Camden,2021,4,8
+Camden,2021,5,11030
+Camden,2021,6,10215
+Camden,2021,6,7
+Camden,2021,7,9920
+Camden,2021,8,9350
+Camden,2021,9,8935
+Camden,2021,10,8825
+Camden,2021,11,8725
+Camden,2021,11,6
+Camden,2021,12,8410
+Camden,2022,1,8080
+Camden,2022,2,8020
+Camden,2022,3,7680
+Camden,2022,4,7335
+Camden,2022,4,5
+Camden,2022,5,7100
+Camden,2022,6,6950
+Camden,2022,7,6730
+Camden,2022,8,6750
+Camden,2022,9,6790
+Camden,2022,10,6680
+Camden,2022,11,6745
+Camden,2022,12,6635
+Camden,2023,1,6455
+Camden,2023,2,6530
+Camden,2023,3,6585
+Camden,2023,4,6700
+Camden,2023,5,6650
+Camden,2023,6,6655
+Camden,2023,7,6680
+Camden,2023,8,6635
+Camden,2023,9,6725
+Camden,2023,10,6735
+Camden,2023,11,6690
+Camden,2023,12,6640
+Camden,2024,1,6670
+Camden,2024,2,6940
+Camden,2024,3,6880
+Camden,2024,4,6820
+Camden,2024,5,6935
+Camden,2024,6,7050
+Camden,2024,7,7645
+Camden,2024,8,7560
+Camden,2024,9,7650
+Camden,2024,10,7865
+Camden,2024,11,7675
+Camden,2024,12,7680
+City of London,2019,1,65
+City of London,2019,2,70
+City of London,2019,3,70
+City of London,2019,4,70
+City of London,2019,5,70
+City of London,2019,6,70
+City of London,2019,7,70
+City of London,2019,8,75
+City of London,2019,9,75
+City of London,2019,10,80
+City of London,2019,11,80
+City of London,2019,12,80
+City of London,2020,1,80
+City of London,2020,2,85
+City of London,2020,3,90
+City of London,2020,4,160
+City of London,2020,5,235
+City of London,2020,6,220
+City of London,2020,7,250
+City of London,2020,8,255
+City of London,2020,9,250
+City of London,2020,10,240
+City of London,2020,11,245
+City of London,2020,12,260
+City of London,2021,1,260
+City of London,2021,2,245
+City of London,2021,3,260
+City of London,2021,3,1
+City of London,2021,4,260
+City of London,2021,5,260
+City of London,2021,5,1
+City of London,2021,6,235
+City of London,2021,7,225
+City of London,2021,8,205
+City of London,2021,9,205
+City of London,2021,10,265
+City of London,2021,10,1
+City of London,2021,11,340
+City of London,2021,12,330
+City of London,2022,1,335
+City of London,2022,2,340
+City of London,2022,3,320
+City of London,2022,4,315
+City of London,2022,5,310
+City of London,2022,6,290
+City of London,2022,7,275
+City of London,2022,8,270
+City of London,2022,9,250
+City of London,2022,10,220
+City of London,2022,11,210
+City of London,2022,12,210
+City of London,2023,1,195
+City of London,2023,2,185
+City of London,2023,3,180
+City of London,2023,4,165
+City of London,2023,5,160
+City of London,2023,6,155
+City of London,2023,7,160
+City of London,2023,8,155
+City of London,2023,9,155
+City of London,2023,10,145
+City of London,2023,11,145
+City of London,2023,12,140
+City of London,2023,12,2
+City of London,2024,1,140
+City of London,2024,2,140
+City of London,2024,2,6
+City of London,2024,3,130
+City of London,2024,4,135
+City of London,2024,5,130
+City of London,2024,6,145
+City of London,2024,7,155
+City of London,2024,8,155
+City of London,2024,9,150
+City of London,2024,10,160
+City of London,2024,11,150
+City of London,2024,12,145
+Croydon,2019,1,9395
+Croydon,2019,2,10035
+Croydon,2019,3,9985
+Croydon,2019,4,10065
+Croydon,2019,5,10110
+Croydon,2019,6,10270
+Croydon,2019,6,5
+Croydon,2019,7,10230
+Croydon,2019,7,5
+Croydon,2019,8,10415
+Croydon,2019,9,10475
+Croydon,2019,10,10540
+Croydon,2019,11,10555
+Croydon,2019,12,10525
+Croydon,2020,1,10440
+Croydon,2020,1,5
+Croydon,2020,2,10820
+Croydon,2020,3,10835
+Croydon,2020,4,16790
+Croydon,2020,5,21860
+Croydon,2020,6,21520
+Croydon,2020,7,21855
+Croydon,2020,8,22720
+Croydon,2020,9,22890
+Croydon,2020,9,11
+Croydon,2020,10,22355
+Croydon,2020,11,23140
+Croydon,2020,12,23000
+Croydon,2020,12,11
+Croydon,2021,1,22600
+Croydon,2021,2,23625
+Croydon,2021,3,23695
+Croydon,2021,4,23525
+Croydon,2021,5,22065
+Croydon,2021,6,20490
+Croydon,2021,7,20270
+Croydon,2021,8,19450
+Croydon,2021,9,18485
+Croydon,2021,10,17950
+Croydon,2021,11,17105
+Croydon,2021,12,16660
+Croydon,2022,1,16100
+Croydon,2022,2,16070
+Croydon,2022,3,15375
+Croydon,2022,4,14675
+Croydon,2022,5,14415
+Croydon,2022,6,14090
+Croydon,2022,7,13810
+Croydon,2022,8,13720
+Croydon,2022,9,13835
+Croydon,2022,10,13650
+Croydon,2022,11,13780
+Croydon,2022,12,13830
+Croydon,2023,1,13685
+Croydon,2023,2,13885
+Croydon,2023,3,14010
+Croydon,2023,4,14355
+Croydon,2023,5,14055
+Croydon,2023,6,14310
+Croydon,2023,7,14510
+Croydon,2023,8,14350
+Croydon,2023,9,14550
+Croydon,2023,10,14640
+Croydon,2023,11,14430
+Croydon,2023,12,14565
+Croydon,2024,1,14605
+Croydon,2024,2,15010
+Croydon,2024,2,7
+Croydon,2024,3,15045
+Croydon,2024,3,7
+Croydon,2024,4,14760
+Croydon,2024,5,14860
+Croydon,2024,6,15145
+Croydon,2024,6,7
+Croydon,2024,7,16470
+Croydon,2024,8,16440
+Croydon,2024,9,16450
+Croydon,2024,10,16485
+Croydon,2024,11,16435
+Croydon,2024,12,16575
+Ealing,2019,1,6455
+Ealing,2019,2,6715
+Ealing,2019,3,6910
+Ealing,2019,3,4
+Ealing,2019,4,7065
+Ealing,2019,5,7235
+Ealing,2019,6,7345
+Ealing,2019,7,7430
+Ealing,2019,8,7465
+Ealing,2019,9,7515
+Ealing,2019,10,7635
+Ealing,2019,11,7685
+Ealing,2019,12,7740
+Ealing,2020,1,7735
+Ealing,2020,2,8015
+Ealing,2020,3,8165
+Ealing,2020,4,12220
+Ealing,2020,5,19845
+Ealing,2020,6,20195
+Ealing,2020,7,20490
+Ealing,2020,8,20985
+Ealing,2020,9,21265
+Ealing,2020,10,20835
+Ealing,2020,11,21830
+Ealing,2020,12,21755
+Ealing,2021,1,21515
+Ealing,2021,2,22655
+Ealing,2021,3,22790
+Ealing,2021,4,22585
+Ealing,2021,5,21470
+Ealing,2021,6,19860
+Ealing,2021,7,19730
+Ealing,2021,8,18840
+Ealing,2021,9,17740
+Ealing,2021,10,17085
+Ealing,2021,11,16430
+Ealing,2021,12,15750
+Ealing,2022,1,15255
+Ealing,2022,2,15385
+Ealing,2022,3,14725
+Ealing,2022,3,8
+Ealing,2022,4,14210
+Ealing,2022,5,13975
+Ealing,2022,6,13535
+Ealing,2022,7,13135
+Ealing,2022,8,13065
+Ealing,2022,9,13070
+Ealing,2022,10,12895
+Ealing,2022,10,7
+Ealing,2022,11,12940
+Ealing,2022,11,7
+Ealing,2022,12,13060
+Ealing,2023,1,13065
+Ealing,2023,2,13165
+Ealing,2023,3,13300
+Ealing,2023,4,13600
+Ealing,2023,5,13295
+Ealing,2023,6,13405
+Ealing,2023,7,13615
+Ealing,2023,8,13540
+Ealing,2023,9,13695
+Ealing,2023,10,13855
+Ealing,2023,11,14025
+Ealing,2023,12,14045
+Ealing,2024,1,14170
+Ealing,2024,2,14500
+Ealing,2024,3,14585
+Ealing,2024,4,14455
+Ealing,2024,5,14645
+Ealing,2024,6,15405
+Ealing,2024,6,8
+Ealing,2024,7,17680
+Ealing,2024,8,17335
+Ealing,2024,8,9
+Ealing,2024,9,17210
+Ealing,2024,10,17345
+Ealing,2024,10,9
+Ealing,2024,11,17280
+Ealing,2024,11,9
+Ealing,2024,12,17120
+Enfield,2019,1,5905
+Enfield,2019,2,6335
+Enfield,2019,3,6505
+Enfield,2019,3,4
+Enfield,2019,4,6570
+Enfield,2019,4,4
+Enfield,2019,5,6680
+Enfield,2019,6,6815
+Enfield,2019,7,6860
+Enfield,2019,8,6985
+Enfield,2019,9,7090
+Enfield,2019,10,7110
+Enfield,2019,11,7285
+Enfield,2019,12,7295
+Enfield,2020,1,7285
+Enfield,2020,2,7555
+Enfield,2020,3,7715
+Enfield,2020,4,12785
+Enfield,2020,5,18275
+Enfield,2020,5,11
+Enfield,2020,6,18225
+Enfield,2020,6,11
+Enfield,2020,7,18330
+Enfield,2020,7,11
+Enfield,2020,8,18610
+Enfield,2020,9,18715
+Enfield,2020,10,18380
+Enfield,2020,11,18930
+Enfield,2020,12,19410
+Enfield,2021,1,19235
+Enfield,2021,2,20230
+Enfield,2021,2,12
+Enfield,2021,3,20405
+Enfield,2021,4,20325
+Enfield,2021,4,12
+Enfield,2021,5,19640
+Enfield,2021,6,18210
+Enfield,2021,7,18205
+Enfield,2021,8,17300
+Enfield,2021,9,16060
+Enfield,2021,10,15650
+Enfield,2021,11,14920
+Enfield,2021,12,14440
+Enfield,2022,1,14065
+Enfield,2022,2,14030
+Enfield,2022,3,13565
+Enfield,2022,4,13330
+Enfield,2022,5,13015
+Enfield,2022,6,12840
+Enfield,2022,7,12475
+Enfield,2022,8,12245
+Enfield,2022,9,12140
+Enfield,2022,10,11930
+Enfield,2022,10,7
+Enfield,2022,11,12065
+Enfield,2022,12,11960
+Enfield,2022,12,7
+Enfield,2023,1,11725
+Enfield,2023,2,11765
+Enfield,2023,3,12075
+Enfield,2023,4,12380
+Enfield,2023,5,11985
+Enfield,2023,6,12190
+Enfield,2023,7,12355
+Enfield,2023,8,12215
+Enfield,2023,9,12315
+Enfield,2023,10,12505
+Enfield,2023,11,12505
+Enfield,2023,12,12605
+Enfield,2024,1,12505
+Enfield,2024,2,12765
+Enfield,2024,3,12710
+Enfield,2024,4,12655
+Enfield,2024,5,13130
+Enfield,2024,5,7
+Enfield,2024,6,13650
+Enfield,2024,7,16945
+Enfield,2024,7,9
+Enfield,2024,8,16255
+Enfield,2024,9,15980
+Enfield,2024,10,16060
+Enfield,2024,11,15715
+Enfield,2024,12,15720
+Greenwich,2019,1,4270
+Greenwich,2019,2,4545
+Greenwich,2019,3,4810
+Greenwich,2019,3,3
+Greenwich,2019,4,5035
+Greenwich,2019,5,5120
+Greenwich,2019,6,5440
+Greenwich,2019,7,5540
+Greenwich,2019,8,5730
+Greenwich,2019,9,5840
+Greenwich,2019,10,6005
+Greenwich,2019,11,6135
+Greenwich,2019,12,6040
+Greenwich,2020,1,6060
+Greenwich,2020,2,6315
+Greenwich,2020,3,6420
+Greenwich,2020,4,10385
+Greenwich,2020,5,15155
+Greenwich,2020,6,15010
+Greenwich,2020,7,15405
+Greenwich,2020,8,15820
+Greenwich,2020,9,16035
+Greenwich,2020,10,15530
+Greenwich,2020,11,15925
+Greenwich,2020,12,16070
+Greenwich,2021,1,15840
+Greenwich,2021,2,16580
+Greenwich,2021,3,16640
+Greenwich,2021,4,16495
+Greenwich,2021,5,15625
+Greenwich,2021,6,14525
+Greenwich,2021,7,14270
+Greenwich,2021,8,13720
+Greenwich,2021,8,8
+Greenwich,2021,9,13040
+Greenwich,2021,10,12435
+Greenwich,2021,11,11755
+Greenwich,2021,12,11365
+Greenwich,2022,1,11000
+Greenwich,2022,2,11005
+Greenwich,2022,3,10685
+Greenwich,2022,4,10270
+Greenwich,2022,5,10045
+Greenwich,2022,6,9850
+Greenwich,2022,6,6
+Greenwich,2022,7,9555
+Greenwich,2022,8,9520
+Greenwich,2022,9,9620
+Greenwich,2022,10,9455
+Greenwich,2022,11,9465
+Greenwich,2022,12,9455
+Greenwich,2023,1,9185
+Greenwich,2023,2,9355
+Greenwich,2023,3,9555
+Greenwich,2023,4,9755
+Greenwich,2023,5,9535
+Greenwich,2023,6,9720
+Greenwich,2023,7,9930
+Greenwich,2023,8,9925
+Greenwich,2023,9,10075
+Greenwich,2023,10,10020
+Greenwich,2023,11,9875
+Greenwich,2023,12,10120
+Greenwich,2024,1,10215
+Greenwich,2024,2,10450
+Greenwich,2024,3,10380
+Greenwich,2024,4,10305
+Greenwich,2024,5,10450
+Greenwich,2024,6,10665
+Greenwich,2024,7,11145
+Greenwich,2024,7,7
+Greenwich,2024,8,11225
+Greenwich,2024,9,11405
+Greenwich,2024,10,11495
+Greenwich,2024,11,11425
+Greenwich,2024,12,11340
+Hackney,2019,1,5690
+Hackney,2019,2,5935
+Hackney,2019,3,6145
+Hackney,2019,4,6285
+Hackney,2019,4,4
+Hackney,2019,5,6485
+Hackney,2019,6,6600
+Hackney,2019,7,6760
+Hackney,2019,8,6855
+Hackney,2019,9,6945
+Hackney,2019,10,7135
+Hackney,2019,11,7245
+Hackney,2019,12,7350
+Hackney,2020,1,7395
+Hackney,2020,2,7605
+Hackney,2020,3,7590
+Hackney,2020,4,11985
+Hackney,2020,5,17585
+Hackney,2020,6,17255
+Hackney,2020,7,17925
+Hackney,2020,7,11
+Hackney,2020,8,18375
+Hackney,2020,9,18615
+Hackney,2020,10,18210
+Hackney,2020,11,18540
+Hackney,2020,12,18805
+Hackney,2021,1,18635
+Hackney,2021,2,19270
+Hackney,2021,3,19395
+Hackney,2021,4,19290
+Hackney,2021,5,18390
+Hackney,2021,6,17090
+Hackney,2021,7,16545
+Hackney,2021,8,15855
+Hackney,2021,9,14925
+Hackney,2021,9,8
+Hackney,2021,10,14215
+Hackney,2021,11,13640
+Hackney,2021,12,13085
+Hackney,2021,12,7
+Hackney,2022,1,12605
+Hackney,2022,1,7
+Hackney,2022,2,12710
+Hackney,2022,3,12380
+Hackney,2022,4,11865
+Hackney,2022,5,11575
+Hackney,2022,6,11385
+Hackney,2022,7,11200
+Hackney,2022,8,10950
+Hackney,2022,9,11000
+Hackney,2022,10,10925
+Hackney,2022,11,10960
+Hackney,2022,12,11015
+Hackney,2023,1,10805
+Hackney,2023,2,11000
+Hackney,2023,3,11215
+Hackney,2023,4,11465
+Hackney,2023,5,11210
+Hackney,2023,6,11350
+Hackney,2023,7,11725
+Hackney,2023,7,6
+Hackney,2023,8,11610
+Hackney,2023,9,11800
+Hackney,2023,9,6
+Hackney,2023,10,11845
+Hackney,2023,10,6
+Hackney,2023,11,11910
+Hackney,2023,12,11835
+Hackney,2023,12,6
+Hackney,2024,1,11825
+Hackney,2024,2,12135
+Hackney,2024,3,12160
+Hackney,2024,4,11940
+Hackney,2024,5,12315
+Hackney,2024,6,12525
+Hackney,2024,7,13935
+Hackney,2024,8,13750
+Hackney,2024,9,13830
+Hackney,2024,10,14065
+Hackney,2024,11,14020
+Hackney,2024,12,13905
+Hammersmith and Fulham,2019,1,4300
+Hammersmith and Fulham,2019,2,4485
+Hammersmith and Fulham,2019,3,4485
+Hammersmith and Fulham,2019,4,4500
+Hammersmith and Fulham,2019,5,4520
+Hammersmith and Fulham,2019,6,4615
+Hammersmith and Fulham,2019,7,4600
+Hammersmith and Fulham,2019,8,4660
+Hammersmith and Fulham,2019,9,4660
+Hammersmith and Fulham,2019,10,4680
+Hammersmith and Fulham,2019,11,4560
+Hammersmith and Fulham,2019,12,4565
+Hammersmith and Fulham,2020,1,4525
+Hammersmith and Fulham,2020,2,4695
+Hammersmith and Fulham,2020,3,4645
+Hammersmith and Fulham,2020,4,6675
+Hammersmith and Fulham,2020,5,10065
+Hammersmith and Fulham,2020,6,10110
+Hammersmith and Fulham,2020,7,10235
+Hammersmith and Fulham,2020,8,10350
+Hammersmith and Fulham,2020,9,10505
+Hammersmith and Fulham,2020,10,10355
+Hammersmith and Fulham,2020,11,10730
+Hammersmith and Fulham,2020,11,10
+Hammersmith and Fulham,2020,12,10745
+Hammersmith and Fulham,2021,1,10680
+Hammersmith and Fulham,2021,2,11125
+Hammersmith and Fulham,2021,3,11105
+Hammersmith and Fulham,2021,4,10970
+Hammersmith and Fulham,2021,5,10385
+Hammersmith and Fulham,2021,6,9750
+Hammersmith and Fulham,2021,7,9310
+Hammersmith and Fulham,2021,8,8850
+Hammersmith and Fulham,2021,9,8505
+Hammersmith and Fulham,2021,10,8220
+Hammersmith and Fulham,2021,11,7810
+Hammersmith and Fulham,2021,12,7580
+Hammersmith and Fulham,2022,1,7300
+Hammersmith and Fulham,2022,2,7300
+Hammersmith and Fulham,2022,3,6960
+Hammersmith and Fulham,2022,4,6635
+Hammersmith and Fulham,2022,5,6470
+Hammersmith and Fulham,2022,6,6295
+Hammersmith and Fulham,2022,7,6175
+Hammersmith and Fulham,2022,7,6
+Hammersmith and Fulham,2022,8,6105
+Hammersmith and Fulham,2022,8,6
+Hammersmith and Fulham,2022,9,6095
+Hammersmith and Fulham,2022,9,6
+Hammersmith and Fulham,2022,10,5925
+Hammersmith and Fulham,2022,11,5990
+Hammersmith and Fulham,2022,12,6020
+Hammersmith and Fulham,2023,1,5870
+Hammersmith and Fulham,2023,2,5930
+Hammersmith and Fulham,2023,3,6000
+Hammersmith and Fulham,2023,4,6040
+Hammersmith and Fulham,2023,5,5890
+Hammersmith and Fulham,2023,6,6060
+Hammersmith and Fulham,2023,7,6145
+Hammersmith and Fulham,2023,7,6
+Hammersmith and Fulham,2023,8,6075
+Hammersmith and Fulham,2023,9,6010
+Hammersmith and Fulham,2023,10,5975
+Hammersmith and Fulham,2023,11,5955
+Hammersmith and Fulham,2023,12,6045
+Hammersmith and Fulham,2024,1,6090
+Hammersmith and Fulham,2024,2,6185
+Hammersmith and Fulham,2024,3,6235
+Hammersmith and Fulham,2024,4,6065
+Hammersmith and Fulham,2024,5,6130
+Hammersmith and Fulham,2024,6,6220
+Hammersmith and Fulham,2024,7,6795
+Hammersmith and Fulham,2024,8,6730
+Hammersmith and Fulham,2024,9,6680
+Hammersmith and Fulham,2024,10,6775
+Hammersmith and Fulham,2024,11,6680
+Hammersmith and Fulham,2024,12,6570
+Haringey,2019,1,4980
+Haringey,2019,2,5170
+Haringey,2019,3,5440
+Haringey,2019,4,5715
+Haringey,2019,5,5785
+Haringey,2019,6,6020
+Haringey,2019,7,6080
+Haringey,2019,8,6235
+Haringey,2019,9,6365
+Haringey,2019,9,4
+Haringey,2019,10,6460
+Haringey,2019,10,4
+Haringey,2019,11,6625
+Haringey,2019,12,6735
+Haringey,2020,1,6745
+Haringey,2020,2,7015
+Haringey,2020,3,7180
+Haringey,2020,4,11715
+Haringey,2020,5,19015
+Haringey,2020,5,12
+Haringey,2020,6,18845
+Haringey,2020,7,18980
+Haringey,2020,7,12
+Haringey,2020,8,19430
+Haringey,2020,9,19820
+Haringey,2020,10,19460
+Haringey,2020,11,20270
+Haringey,2020,12,20745
+Haringey,2021,1,20485
+Haringey,2021,2,21640
+Haringey,2021,3,21875
+Haringey,2021,4,21685
+Haringey,2021,5,20805
+Haringey,2021,6,19085
+Haringey,2021,7,18575
+Haringey,2021,8,17830
+Haringey,2021,8,11
+Haringey,2021,9,16800
+Haringey,2021,10,16175
+Haringey,2021,10,10
+Haringey,2021,11,15485
+Haringey,2021,12,14885
+Haringey,2022,1,14460
+Haringey,2022,1,9
+Haringey,2022,2,14405
+Haringey,2022,3,13935
+Haringey,2022,4,13220
+Haringey,2022,5,13010
+Haringey,2022,6,12870
+Haringey,2022,6,8
+Haringey,2022,7,12570
+Haringey,2022,8,12450
+Haringey,2022,9,12390
+Haringey,2022,10,12330
+Haringey,2022,11,12310
+Haringey,2022,12,12275
+Haringey,2023,1,12035
+Haringey,2023,2,12245
+Haringey,2023,3,12450
+Haringey,2023,4,12610
+Haringey,2023,5,12390
+Haringey,2023,6,12590
+Haringey,2023,7,12710
+Haringey,2023,8,12520
+Haringey,2023,9,12550
+Haringey,2023,10,12605
+Haringey,2023,11,12500
+Haringey,2023,12,12495
+Haringey,2024,1,12435
+Haringey,2024,1,8
+Haringey,2024,2,12725
+Haringey,2024,3,12705
+Haringey,2024,4,12610
+Haringey,2024,5,12915
+Haringey,2024,6,13280
+Haringey,2024,7,15190
+Haringey,2024,8,14775
+Haringey,2024,9,14480
+Haringey,2024,10,14550
+Haringey,2024,11,14265
+Haringey,2024,12,14175
+Harrow,2019,1,2295
+Harrow,2019,2,2490
+Harrow,2019,3,2600
+Harrow,2019,4,2665
+Harrow,2019,5,2750
+Harrow,2019,6,2865
+Harrow,2019,7,2950
+Harrow,2019,8,3060
+Harrow,2019,9,3135
+Harrow,2019,10,3185
+Harrow,2019,11,3265
+Harrow,2019,12,3255
+Harrow,2020,1,3235
+Harrow,2020,2,3480
+Harrow,2020,3,3435
+Harrow,2020,4,5710
+Harrow,2020,5,10360
+Harrow,2020,6,10630
+Harrow,2020,7,10620
+Harrow,2020,8,10955
+Harrow,2020,9,11040
+Harrow,2020,10,10860
+Harrow,2020,11,11165
+Harrow,2020,12,11200
+Harrow,2021,1,10945
+Harrow,2021,2,11605
+Harrow,2021,2,9
+Harrow,2021,3,11580
+Harrow,2021,4,11420
+Harrow,2021,5,10620
+Harrow,2021,6,9625
+Harrow,2021,7,9655
+Harrow,2021,8,9280
+Harrow,2021,9,8625
+Harrow,2021,10,8330
+Harrow,2021,11,7945
+Harrow,2021,12,7725
+Harrow,2021,12,6
+Harrow,2022,1,7395
+Harrow,2022,2,7205
+Harrow,2022,3,6755
+Harrow,2022,4,6370
+Harrow,2022,5,6175
+Harrow,2022,6,6055
+Harrow,2022,7,5830
+Harrow,2022,8,5835
+Harrow,2022,9,6010
+Harrow,2022,10,5800
+Harrow,2022,11,5695
+Harrow,2022,12,5830
+Harrow,2023,1,5770
+Harrow,2023,2,5970
+Harrow,2023,3,6090
+Harrow,2023,4,6170
+Harrow,2023,5,5965
+Harrow,2023,6,6085
+Harrow,2023,7,6210
+Harrow,2023,8,6140
+Harrow,2023,9,6245
+Harrow,2023,10,6220
+Harrow,2023,11,6235
+Harrow,2023,12,6190
+Harrow,2024,1,6265
+Harrow,2024,2,6505
+Harrow,2024,2,5
+Harrow,2024,3,6450
+Harrow,2024,3,5
+Harrow,2024,4,6470
+Harrow,2024,4,5
+Harrow,2024,5,6625
+Harrow,2024,6,7030
+Harrow,2024,7,8040
+Harrow,2024,8,7930
+Harrow,2024,9,8300
+Harrow,2024,10,8330
+Harrow,2024,11,8205
+Harrow,2024,12,8185
+Havering,2019,1,3145
+Havering,2019,2,3395
+Havering,2019,3,3475
+Havering,2019,4,3625
+Havering,2019,5,3630
+Havering,2019,6,3735
+Havering,2019,7,3770
+Havering,2019,8,3795
+Havering,2019,9,3810
+Havering,2019,10,3885
+Havering,2019,11,3955
+Havering,2019,11,3
+Havering,2019,12,3990
+Havering,2019,12,3
+Havering,2020,1,3990
+Havering,2020,2,4175
+Havering,2020,2,3
+Havering,2020,3,4220
+Havering,2020,3,3
+Havering,2020,4,8000
+Havering,2020,5,10760
+Havering,2020,6,9990
+Havering,2020,7,10220
+Havering,2020,8,10640
+Havering,2020,9,10575
+Havering,2020,10,10045
+Havering,2020,11,10270
+Havering,2020,12,10380
+Havering,2021,1,10025
+Havering,2021,2,10685
+Havering,2021,3,10690
+Havering,2021,4,10620
+Havering,2021,5,9815
+Havering,2021,6,9035
+Havering,2021,7,8830
+Havering,2021,7,6
+Havering,2021,8,8370
+Havering,2021,9,7855
+Havering,2021,10,7510
+Havering,2021,11,7170
+Havering,2021,12,6975
+Havering,2022,1,6755
+Havering,2022,2,6680
+Havering,2022,3,6255
+Havering,2022,4,6000
+Havering,2022,4,4
+Havering,2022,5,5840
+Havering,2022,6,5800
+Havering,2022,7,5605
+Havering,2022,8,5730
+Havering,2022,9,5770
+Havering,2022,10,5815
+Havering,2022,11,5945
+Havering,2022,11,4
+Havering,2022,12,5990
+Havering,2022,12,4
+Havering,2023,1,5955
+Havering,2023,2,6100
+Havering,2023,3,6300
+Havering,2023,4,6435
+Havering,2023,5,6335
+Havering,2023,6,6345
+Havering,2023,7,6400
+Havering,2023,8,6365
+Havering,2023,9,6450
+Havering,2023,10,6535
+Havering,2023,11,6475
+Havering,2023,12,6425
+Havering,2024,1,6490
+Havering,2024,2,6750
+Havering,2024,3,6760
+Havering,2024,4,6655
+Havering,2024,5,6815
+Havering,2024,6,6975
+Havering,2024,6,5
+Havering,2024,7,7610
+Havering,2024,8,7630
+Havering,2024,9,7665
+Havering,2024,10,7715
+Havering,2024,11,7550
+Havering,2024,12,7505
+Hillingdon,2019,1,2905
+Hillingdon,2019,2,3235
+Hillingdon,2019,3,3485
+Hillingdon,2019,4,3640
+Hillingdon,2019,5,3780
+Hillingdon,2019,6,3875
+Hillingdon,2019,7,3900
+Hillingdon,2019,8,4015
+Hillingdon,2019,9,4165
+Hillingdon,2019,10,4275
+Hillingdon,2019,11,4300
+Hillingdon,2019,12,4325
+Hillingdon,2020,1,4390
+Hillingdon,2020,2,4660
+Hillingdon,2020,3,4835
+Hillingdon,2020,4,8020
+Hillingdon,2020,5,13110
+Hillingdon,2020,6,13015
+Hillingdon,2020,7,13410
+Hillingdon,2020,8,13810
+Hillingdon,2020,9,14085
+Hillingdon,2020,10,13875
+Hillingdon,2020,10,8
+Hillingdon,2020,11,14370
+Hillingdon,2020,12,14405
+Hillingdon,2021,1,14285
+Hillingdon,2021,2,15000
+Hillingdon,2021,3,14965
+Hillingdon,2021,4,14635
+Hillingdon,2021,5,13640
+Hillingdon,2021,6,12580
+Hillingdon,2021,7,12210
+Hillingdon,2021,8,11670
+Hillingdon,2021,9,10965
+Hillingdon,2021,10,10480
+Hillingdon,2021,11,9900
+Hillingdon,2021,12,9335
+Hillingdon,2022,1,8880
+Hillingdon,2022,2,8815
+Hillingdon,2022,3,8555
+Hillingdon,2022,4,8175
+Hillingdon,2022,5,8050
+Hillingdon,2022,5,5
+Hillingdon,2022,6,7800
+Hillingdon,2022,7,7580
+Hillingdon,2022,8,7580
+Hillingdon,2022,9,7585
+Hillingdon,2022,10,7485
+Hillingdon,2022,11,7580
+Hillingdon,2022,12,7765
+Hillingdon,2023,1,7550
+Hillingdon,2023,2,7845
+Hillingdon,2023,3,7920
+Hillingdon,2023,4,8120
+Hillingdon,2023,5,7950
+Hillingdon,2023,6,8085
+Hillingdon,2023,7,8170
+Hillingdon,2023,8,8105
+Hillingdon,2023,9,8355
+Hillingdon,2023,10,8430
+Hillingdon,2023,10,5
+Hillingdon,2023,11,8460
+Hillingdon,2023,11,5
+Hillingdon,2023,12,8495
+Hillingdon,2023,12,5
+Hillingdon,2024,1,8505
+Hillingdon,2024,2,8740
+Hillingdon,2024,2,5
+Hillingdon,2024,3,8785
+Hillingdon,2024,3,5
+Hillingdon,2024,4,8845
+Hillingdon,2024,4,5
+Hillingdon,2024,5,9060
+Hillingdon,2024,6,9300
+Hillingdon,2024,7,10405
+Hillingdon,2024,8,10305
+Hillingdon,2024,9,10445
+Hillingdon,2024,10,10635
+Hillingdon,2024,10,6
+Hillingdon,2024,11,10410
+Hillingdon,2024,12,10425
+Hounslow,2019,1,5600
+Hounslow,2019,1,4
+Hounslow,2019,2,5985
+Hounslow,2019,3,6040
+Hounslow,2019,4,6075
+Hounslow,2019,5,6105
+Hounslow,2019,6,6115
+Hounslow,2019,7,6105
+Hounslow,2019,8,6170
+Hounslow,2019,9,6195
+Hounslow,2019,10,6305
+Hounslow,2019,11,6275
+Hounslow,2019,12,6260
+Hounslow,2020,1,6315
+Hounslow,2020,2,6615
+Hounslow,2020,3,6690
+Hounslow,2020,4,10120
+Hounslow,2020,5,15040
+Hounslow,2020,6,14980
+Hounslow,2020,7,15325
+Hounslow,2020,8,15800
+Hounslow,2020,9,16090
+Hounslow,2020,10,15980
+Hounslow,2020,11,16770
+Hounslow,2020,12,16835
+Hounslow,2021,1,16440
+Hounslow,2021,1,11
+Hounslow,2021,2,17570
+Hounslow,2021,3,17695
+Hounslow,2021,4,17530
+Hounslow,2021,5,16485
+Hounslow,2021,6,15220
+Hounslow,2021,7,14795
+Hounslow,2021,8,14015
+Hounslow,2021,9,13170
+Hounslow,2021,10,12505
+Hounslow,2021,11,12020
+Hounslow,2021,12,11445
+Hounslow,2022,1,11125
+Hounslow,2022,2,11040
+Hounslow,2022,3,10400
+Hounslow,2022,4,9885
+Hounslow,2022,5,9565
+Hounslow,2022,6,9395
+Hounslow,2022,7,9210
+Hounslow,2022,8,9130
+Hounslow,2022,9,9230
+Hounslow,2022,10,9150
+Hounslow,2022,11,9130
+Hounslow,2022,12,9205
+Hounslow,2023,1,9220
+Hounslow,2023,2,9415
+Hounslow,2023,3,9575
+Hounslow,2023,4,9900
+Hounslow,2023,5,9600
+Hounslow,2023,6,9730
+Hounslow,2023,7,9745
+Hounslow,2023,8,9610
+Hounslow,2023,9,9815
+Hounslow,2023,10,9795
+Hounslow,2023,11,9850
+Hounslow,2023,12,9775
+Hounslow,2024,1,9780
+Hounslow,2024,2,9940
+Hounslow,2024,3,9845
+Hounslow,2024,4,9700
+Hounslow,2024,4,7
+Hounslow,2024,5,9830
+Hounslow,2024,6,10280
+Hounslow,2024,7,11310
+Hounslow,2024,8,11265
+Hounslow,2024,9,11225
+Hounslow,2024,10,11165
+Hounslow,2024,11,10905
+Hounslow,2024,12,10610
+Islington,2019,1,4760
+Islington,2019,2,4960
+Islington,2019,3,5035
+Islington,2019,4,5110
+Islington,2019,5,5180
+Islington,2019,6,5385
+Islington,2019,7,5435
+Islington,2019,8,5490
+Islington,2019,9,5520
+Islington,2019,10,5630
+Islington,2019,11,5595
+Islington,2019,12,5580
+Islington,2020,1,5615
+Islington,2020,2,5780
+Islington,2020,2,4
+Islington,2020,3,5815
+Islington,2020,3,4
+Islington,2020,4,8825
+Islington,2020,5,12505
+Islington,2020,6,12475
+Islington,2020,7,12730
+Islington,2020,8,13015
+Islington,2020,8,9
+Islington,2020,9,13200
+Islington,2020,10,13110
+Islington,2020,11,13545
+Islington,2020,12,13730
+Islington,2021,1,13535
+Islington,2021,2,14115
+Islington,2021,3,14150
+Islington,2021,4,14060
+Islington,2021,5,13260
+Islington,2021,5,9
+Islington,2021,6,12410
+Islington,2021,7,11965
+Islington,2021,8,11330
+Islington,2021,9,10905
+Islington,2021,10,10425
+Islington,2021,11,9905
+Islington,2021,12,9460
+Islington,2022,1,9190
+Islington,2022,1,6
+Islington,2022,2,9265
+Islington,2022,3,8925
+Islington,2022,4,8685
+Islington,2022,5,8540
+Islington,2022,6,8330
+Islington,2022,7,8245
+Islington,2022,8,8195
+Islington,2022,9,8210
+Islington,2022,10,8150
+Islington,2022,11,8215
+Islington,2022,12,8140
+Islington,2023,1,8050
+Islington,2023,2,8255
+Islington,2023,3,8435
+Islington,2023,4,8560
+Islington,2023,5,8465
+Islington,2023,6,8615
+Islington,2023,7,8700
+Islington,2023,8,8570
+Islington,2023,9,8825
+Islington,2023,10,8855
+Islington,2023,11,8775
+Islington,2023,12,8750
+Islington,2024,1,8705
+Islington,2024,2,9075
+Islington,2024,3,9030
+Islington,2024,4,8990
+Islington,2024,5,9140
+Islington,2024,6,9230
+Islington,2024,7,9805
+Islington,2024,7,6
+Islington,2024,8,9820
+Islington,2024,8,6
+Islington,2024,9,9955
+Islington,2024,10,10005
+Islington,2024,11,9850
+Islington,2024,11,6
+Islington,2024,12,9795
+Islington,2024,12,6
+Kensington and Chelsea,2019,1,1995
+Kensington and Chelsea,2019,2,2080
+Kensington and Chelsea,2019,3,2115
+Kensington and Chelsea,2019,4,2130
+Kensington and Chelsea,2019,5,2140
+Kensington and Chelsea,2019,6,2210
+Kensington and Chelsea,2019,7,2215
+Kensington and Chelsea,2019,8,2240
+Kensington and Chelsea,2019,9,2270
+Kensington and Chelsea,2019,9,3
+Kensington and Chelsea,2019,10,2260
+Kensington and Chelsea,2019,10,3
+Kensington and Chelsea,2019,11,2265
+Kensington and Chelsea,2019,11,3
+Kensington and Chelsea,2019,12,2275
+Kensington and Chelsea,2019,12,3
+Kensington and Chelsea,2020,1,2295
+Kensington and Chelsea,2020,2,2385
+Kensington and Chelsea,2020,3,2395
+Kensington and Chelsea,2020,4,3680
+Kensington and Chelsea,2020,5,5650
+Kensington and Chelsea,2020,6,5775
+Kensington and Chelsea,2020,7,5880
+Kensington and Chelsea,2020,7,7
+Kensington and Chelsea,2020,8,6055
+Kensington and Chelsea,2020,9,6100
+Kensington and Chelsea,2020,10,5975
+Kensington and Chelsea,2020,11,6170
+Kensington and Chelsea,2020,12,6255
+Kensington and Chelsea,2021,1,6255
+Kensington and Chelsea,2021,2,6505
+Kensington and Chelsea,2021,3,6530
+Kensington and Chelsea,2021,4,6445
+Kensington and Chelsea,2021,5,6115
+Kensington and Chelsea,2021,6,5680
+Kensington and Chelsea,2021,6,8
+Kensington and Chelsea,2021,7,5485
+Kensington and Chelsea,2021,8,5225
+Kensington and Chelsea,2021,9,4925
+Kensington and Chelsea,2021,10,4885
+Kensington and Chelsea,2021,11,4755
+Kensington and Chelsea,2021,12,4565
+Kensington and Chelsea,2022,1,4305
+Kensington and Chelsea,2022,2,4245
+Kensington and Chelsea,2022,3,4055
+Kensington and Chelsea,2022,4,3850
+Kensington and Chelsea,2022,4,5
+Kensington and Chelsea,2022,5,3750
+Kensington and Chelsea,2022,6,3705
+Kensington and Chelsea,2022,7,3600
+Kensington and Chelsea,2022,8,3540
+Kensington and Chelsea,2022,9,3455
+Kensington and Chelsea,2022,10,3425
+Kensington and Chelsea,2022,11,3445
+Kensington and Chelsea,2022,12,3420
+Kensington and Chelsea,2023,1,3340
+Kensington and Chelsea,2023,2,3345
+Kensington and Chelsea,2023,3,3360
+Kensington and Chelsea,2023,4,3280
+Kensington and Chelsea,2023,5,3285
+Kensington and Chelsea,2023,6,3355
+Kensington and Chelsea,2023,7,3360
+Kensington and Chelsea,2023,8,3310
+Kensington and Chelsea,2023,9,3345
+Kensington and Chelsea,2023,10,3335
+Kensington and Chelsea,2023,11,3350
+Kensington and Chelsea,2023,12,3350
+Kensington and Chelsea,2024,1,3350
+Kensington and Chelsea,2024,2,3385
+Kensington and Chelsea,2024,3,3340
+Kensington and Chelsea,2024,4,3315
+Kensington and Chelsea,2024,5,3385
+Kensington and Chelsea,2024,6,3430
+Kensington and Chelsea,2024,7,3830
+Kensington and Chelsea,2024,7,5
+Kensington and Chelsea,2024,8,3775
+Kensington and Chelsea,2024,9,3800
+Kensington and Chelsea,2024,10,3860
+Kensington and Chelsea,2024,10,5
+Kensington and Chelsea,2024,11,3825
+Kensington and Chelsea,2024,11,5
+Kensington and Chelsea,2024,12,3845
+Kensington and Chelsea,2024,12,5
+Kingston upon Thames,2019,1,1710
+Kingston upon Thames,2019,2,1785
+Kingston upon Thames,2019,3,1835
+Kingston upon Thames,2019,4,1890
+Kingston upon Thames,2019,5,1870
+Kingston upon Thames,2019,6,1880
+Kingston upon Thames,2019,7,1935
+Kingston upon Thames,2019,7,2
+Kingston upon Thames,2019,8,1960
+Kingston upon Thames,2019,8,2
+Kingston upon Thames,2019,9,2045
+Kingston upon Thames,2019,10,2045
+Kingston upon Thames,2019,11,2100
+Kingston upon Thames,2019,12,2115
+Kingston upon Thames,2020,1,2170
+Kingston upon Thames,2020,2,2285
+Kingston upon Thames,2020,3,2260
+Kingston upon Thames,2020,4,3465
+Kingston upon Thames,2020,5,5860
+Kingston upon Thames,2020,6,5725
+Kingston upon Thames,2020,7,5935
+Kingston upon Thames,2020,7,6
+Kingston upon Thames,2020,8,6135
+Kingston upon Thames,2020,9,6205
+Kingston upon Thames,2020,10,5920
+Kingston upon Thames,2020,10,6
+Kingston upon Thames,2020,11,5995
+Kingston upon Thames,2020,11,6
+Kingston upon Thames,2020,12,5985
+Kingston upon Thames,2020,12,6
+Kingston upon Thames,2021,1,5795
+Kingston upon Thames,2021,2,6125
+Kingston upon Thames,2021,3,6095
+Kingston upon Thames,2021,4,6020
+Kingston upon Thames,2021,5,5500
+Kingston upon Thames,2021,6,4970
+Kingston upon Thames,2021,7,4900
+Kingston upon Thames,2021,8,4710
+Kingston upon Thames,2021,9,4280
+Kingston upon Thames,2021,10,4110
+Kingston upon Thames,2021,10,4
+Kingston upon Thames,2021,11,3840
+Kingston upon Thames,2021,12,3725
+Kingston upon Thames,2022,1,3560
+Kingston upon Thames,2022,2,3545
+Kingston upon Thames,2022,3,3375
+Kingston upon Thames,2022,4,3040
+Kingston upon Thames,2022,5,2970
+Kingston upon Thames,2022,6,2925
+Kingston upon Thames,2022,7,2855
+Kingston upon Thames,2022,8,2835
+Kingston upon Thames,2022,9,2825
+Kingston upon Thames,2022,10,2745
+Kingston upon Thames,2022,11,2765
+Kingston upon Thames,2022,12,2805
+Kingston upon Thames,2023,1,2830
+Kingston upon Thames,2023,2,2850
+Kingston upon Thames,2023,3,2925
+Kingston upon Thames,2023,4,3010
+Kingston upon Thames,2023,5,2970
+Kingston upon Thames,2023,6,3005
+Kingston upon Thames,2023,7,3060
+Kingston upon Thames,2023,8,3025
+Kingston upon Thames,2023,9,3110
+Kingston upon Thames,2023,10,3120
+Kingston upon Thames,2023,11,3080
+Kingston upon Thames,2023,12,3110
+Kingston upon Thames,2024,1,3110
+Kingston upon Thames,2024,2,3200
+Kingston upon Thames,2024,2,3
+Kingston upon Thames,2024,3,3215
+Kingston upon Thames,2024,3,3
+Kingston upon Thames,2024,4,3150
+Kingston upon Thames,2024,5,3155
+Kingston upon Thames,2024,6,3230
+Kingston upon Thames,2024,6,3
+Kingston upon Thames,2024,7,3655
+Kingston upon Thames,2024,8,3615
+Kingston upon Thames,2024,9,3650
+Kingston upon Thames,2024,10,3720
+Kingston upon Thames,2024,11,3705
+Kingston upon Thames,2024,12,3665
+Lambeth,2019,1,7530
+Lambeth,2019,2,7885
+Lambeth,2019,3,7960
+Lambeth,2019,4,8055
+Lambeth,2019,5,8130
+Lambeth,2019,6,8315
+Lambeth,2019,6,4
+Lambeth,2019,7,8285
+Lambeth,2019,7,4
+Lambeth,2019,8,8440
+Lambeth,2019,9,8665
+Lambeth,2019,10,8610
+Lambeth,2019,11,8670
+Lambeth,2019,12,8720
+Lambeth,2020,1,8730
+Lambeth,2020,2,8890
+Lambeth,2020,3,9020
+Lambeth,2020,4,13590
+Lambeth,2020,5,19885
+Lambeth,2020,6,19865
+Lambeth,2020,7,20350
+Lambeth,2020,8,20780
+Lambeth,2020,9,21095
+Lambeth,2020,10,20815
+Lambeth,2020,11,21425
+Lambeth,2020,11,10
+Lambeth,2020,12,21630
+Lambeth,2021,1,21370
+Lambeth,2021,1,10
+Lambeth,2021,2,22300
+Lambeth,2021,3,22510
+Lambeth,2021,4,22165
+Lambeth,2021,5,21065
+Lambeth,2021,6,19520
+Lambeth,2021,7,18945
+Lambeth,2021,8,18125
+Lambeth,2021,9,17170
+Lambeth,2021,9,8
+Lambeth,2021,10,16400
+Lambeth,2021,11,15625
+Lambeth,2021,12,14820
+Lambeth,2022,1,14455
+Lambeth,2022,2,14595
+Lambeth,2022,3,14210
+Lambeth,2022,4,13455
+Lambeth,2022,4,6
+Lambeth,2022,5,13120
+Lambeth,2022,6,12765
+Lambeth,2022,7,12420
+Lambeth,2022,8,12340
+Lambeth,2022,9,12395
+Lambeth,2022,10,12285
+Lambeth,2022,11,12100
+Lambeth,2022,12,12055
+Lambeth,2023,1,11730
+Lambeth,2023,2,12100
+Lambeth,2023,2,6
+Lambeth,2023,3,12350
+Lambeth,2023,4,12475
+Lambeth,2023,5,12260
+Lambeth,2023,6,12435
+Lambeth,2023,7,12645
+Lambeth,2023,8,12600
+Lambeth,2023,9,12885
+Lambeth,2023,10,12840
+Lambeth,2023,11,12740
+Lambeth,2023,12,12695
+Lambeth,2024,1,12605
+Lambeth,2024,2,13120
+Lambeth,2024,3,13210
+Lambeth,2024,4,12950
+Lambeth,2024,5,13115
+Lambeth,2024,6,13290
+Lambeth,2024,7,14265
+Lambeth,2024,8,14275
+Lambeth,2024,9,14640
+Lambeth,2024,10,14830
+Lambeth,2024,10,7
+Lambeth,2024,11,14665
+Lambeth,2024,12,14640
+Lewisham,2019,1,6345
+Lewisham,2019,2,6775
+Lewisham,2019,3,6960
+Lewisham,2019,4,7115
+Lewisham,2019,5,7230
+Lewisham,2019,6,7540
+Lewisham,2019,7,7665
+Lewisham,2019,8,7815
+Lewisham,2019,9,7935
+Lewisham,2019,10,8040
+Lewisham,2019,11,8125
+Lewisham,2019,12,8115
+Lewisham,2020,1,8055
+Lewisham,2020,2,8275
+Lewisham,2020,3,8410
+Lewisham,2020,4,12815
+Lewisham,2020,5,19010
+Lewisham,2020,6,18720
+Lewisham,2020,7,19105
+Lewisham,2020,8,19740
+Lewisham,2020,9,20070
+Lewisham,2020,10,19635
+Lewisham,2020,11,20335
+Lewisham,2020,12,20260
+Lewisham,2021,1,20000
+Lewisham,2021,2,20930
+Lewisham,2021,3,20950
+Lewisham,2021,4,20675
+Lewisham,2021,5,19690
+Lewisham,2021,6,18320
+Lewisham,2021,7,17800
+Lewisham,2021,8,17100
+Lewisham,2021,9,16230
+Lewisham,2021,9,9
+Lewisham,2021,10,15660
+Lewisham,2021,11,14890
+Lewisham,2021,12,14365
+Lewisham,2021,12,8
+Lewisham,2022,1,13905
+Lewisham,2022,2,14010
+Lewisham,2022,3,13430
+Lewisham,2022,4,12930
+Lewisham,2022,5,12545
+Lewisham,2022,6,12385
+Lewisham,2022,7,12120
+Lewisham,2022,8,12010
+Lewisham,2022,9,12130
+Lewisham,2022,10,12095
+Lewisham,2022,11,11985
+Lewisham,2022,12,12060
+Lewisham,2023,1,11830
+Lewisham,2023,2,11950
+Lewisham,2023,3,12115
+Lewisham,2023,4,12355
+Lewisham,2023,4,7
+Lewisham,2023,5,12120
+Lewisham,2023,6,12330
+Lewisham,2023,6,7
+Lewisham,2023,7,12610
+Lewisham,2023,8,12505
+Lewisham,2023,9,12710
+Lewisham,2023,10,12800
+Lewisham,2023,11,12840
+Lewisham,2023,12,13015
+Lewisham,2024,1,12995
+Lewisham,2024,2,13385
+Lewisham,2024,3,13615
+Lewisham,2024,4,13465
+Lewisham,2024,5,13490
+Lewisham,2024,6,13745
+Lewisham,2024,7,14680
+Lewisham,2024,8,14630
+Lewisham,2024,9,14760
+Lewisham,2024,10,14925
+Lewisham,2024,11,14905
+Lewisham,2024,12,14725
+Merton,2019,1,3040
+Merton,2019,2,3250
+Merton,2019,3,3280
+Merton,2019,4,3320
+Merton,2019,5,3330
+Merton,2019,6,3325
+Merton,2019,7,3350
+Merton,2019,8,3395
+Merton,2019,9,3455
+Merton,2019,10,3530
+Merton,2019,11,3575
+Merton,2019,11,3
+Merton,2019,12,3595
+Merton,2019,12,3
+Merton,2020,1,3605
+Merton,2020,2,3690
+Merton,2020,2,3
+Merton,2020,3,3690
+Merton,2020,3,3
+Merton,2020,4,6450
+Merton,2020,5,9580
+Merton,2020,6,9415
+Merton,2020,7,9610
+Merton,2020,8,9965
+Merton,2020,8,8
+Merton,2020,9,9945
+Merton,2020,9,8
+Merton,2020,10,9525
+Merton,2020,11,9760
+Merton,2020,12,9855
+Merton,2020,12,8
+Merton,2021,1,9600
+Merton,2021,1,8
+Merton,2021,2,10060
+Merton,2021,3,10015
+Merton,2021,4,9875
+Merton,2021,5,9195
+Merton,2021,6,8295
+Merton,2021,7,8275
+Merton,2021,8,7750
+Merton,2021,9,7325
+Merton,2021,10,6955
+Merton,2021,11,6665
+Merton,2021,12,6425
+Merton,2022,1,6280
+Merton,2022,2,6255
+Merton,2022,3,6095
+Merton,2022,4,5790
+Merton,2022,5,5660
+Merton,2022,6,5565
+Merton,2022,7,5380
+Merton,2022,8,5400
+Merton,2022,9,5435
+Merton,2022,10,5450
+Merton,2022,11,5445
+Merton,2022,12,5485
+Merton,2023,1,5315
+Merton,2023,2,5485
+Merton,2023,3,5635
+Merton,2023,4,5830
+Merton,2023,5,5655
+Merton,2023,6,5745
+Merton,2023,7,5815
+Merton,2023,8,5800
+Merton,2023,9,5880
+Merton,2023,10,5915
+Merton,2023,10,5
+Merton,2023,11,6000
+Merton,2023,11,5
+Merton,2023,12,6030
+Merton,2024,1,6005
+Merton,2024,2,6080
+Merton,2024,3,6150
+Merton,2024,4,6075
+Merton,2024,5,6215
+Merton,2024,6,6315
+Merton,2024,6,5
+Merton,2024,7,6875
+Merton,2024,8,6835
+Merton,2024,9,7060
+Merton,2024,10,7020
+Merton,2024,11,6935
+Merton,2024,12,6845
+Newham,2019,1,5680
+Newham,2019,1,3
+Newham,2019,2,5880
+Newham,2019,3,6195
+Newham,2019,4,6450
+Newham,2019,5,6755
+Newham,2019,6,6875
+Newham,2019,7,6930
+Newham,2019,8,7065
+Newham,2019,9,7265
+Newham,2019,10,7435
+Newham,2019,11,7620
+Newham,2019,11,4
+Newham,2019,12,7640
+Newham,2019,12,4
+Newham,2020,1,7750
+Newham,2020,2,8050
+Newham,2020,3,8170
+Newham,2020,3,4
+Newham,2020,4,12815
+Newham,2020,5,23030
+Newham,2020,6,23330
+Newham,2020,7,23515
+Newham,2020,8,24050
+Newham,2020,9,24445
+Newham,2020,10,24270
+Newham,2020,11,25655
+Newham,2020,12,26340
+Newham,2021,1,25985
+Newham,2021,2,27625
+Newham,2021,3,28000
+Newham,2021,4,28090
+Newham,2021,4,14
+Newham,2021,5,26820
+Newham,2021,6,24925
+Newham,2021,7,24655
+Newham,2021,8,23545
+Newham,2021,9,22075
+Newham,2021,9,11
+Newham,2021,10,21370
+Newham,2021,11,20595
+Newham,2021,12,19815
+Newham,2022,1,18820
+Newham,2022,2,18620
+Newham,2022,3,17645
+Newham,2022,4,16495
+Newham,2022,4,8
+Newham,2022,5,16095
+Newham,2022,6,15780
+Newham,2022,7,14985
+Newham,2022,8,15080
+Newham,2022,9,15180
+Newham,2022,10,15170
+Newham,2022,11,15285
+Newham,2022,12,15215
+Newham,2023,1,14975
+Newham,2023,2,15150
+Newham,2023,3,15675
+Newham,2023,4,16165
+Newham,2023,5,15895
+Newham,2023,6,16170
+Newham,2023,7,16490
+Newham,2023,8,16375
+Newham,2023,9,16700
+Newham,2023,10,16760
+Newham,2023,11,16660
+Newham,2023,12,16805
+Newham,2024,1,16775
+Newham,2024,2,17460
+Newham,2024,3,17340
+Newham,2024,4,17410
+Newham,2024,5,18000
+Newham,2024,6,18620
+Newham,2024,6,9
+Newham,2024,7,20460
+Newham,2024,8,20190
+Newham,2024,9,20585
+Newham,2024,10,21235
+Newham,2024,11,21020
+Newham,2024,12,20800
+Newham,2024,12,10
+Redbridge,2019,1,3330
+Redbridge,2019,2,3625
+Redbridge,2019,3,3860
+Redbridge,2019,4,3965
+Redbridge,2019,5,4125
+Redbridge,2019,6,4305
+Redbridge,2019,7,4370
+Redbridge,2019,8,4490
+Redbridge,2019,9,4565
+Redbridge,2019,10,4695
+Redbridge,2019,10,3
+Redbridge,2019,11,4835
+Redbridge,2019,12,4910
+Redbridge,2020,1,4910
+Redbridge,2020,1,3
+Redbridge,2020,2,5195
+Redbridge,2020,3,5285
+Redbridge,2020,4,10485
+Redbridge,2020,5,15095
+Redbridge,2020,6,15040
+Redbridge,2020,7,15270
+Redbridge,2020,8,15610
+Redbridge,2020,9,15495
+Redbridge,2020,10,15070
+Redbridge,2020,11,15765
+Redbridge,2020,12,15870
+Redbridge,2021,1,15500
+Redbridge,2021,2,16640
+Redbridge,2021,3,16720
+Redbridge,2021,4,16665
+Redbridge,2021,5,15810
+Redbridge,2021,6,14745
+Redbridge,2021,7,14710
+Redbridge,2021,8,14045
+Redbridge,2021,9,13045
+Redbridge,2021,10,12735
+Redbridge,2021,11,12125
+Redbridge,2021,12,11605
+Redbridge,2022,1,11085
+Redbridge,2022,2,10860
+Redbridge,2022,3,10080
+Redbridge,2022,4,9520
+Redbridge,2022,5,9335
+Redbridge,2022,6,9265
+Redbridge,2022,7,9080
+Redbridge,2022,8,8985
+Redbridge,2022,9,9045
+Redbridge,2022,10,9055
+Redbridge,2022,11,9130
+Redbridge,2022,12,9285
+Redbridge,2023,1,9150
+Redbridge,2023,2,9285
+Redbridge,2023,3,9490
+Redbridge,2023,4,10025
+Redbridge,2023,5,9655
+Redbridge,2023,6,9855
+Redbridge,2023,7,10115
+Redbridge,2023,8,10075
+Redbridge,2023,9,10050
+Redbridge,2023,10,10060
+Redbridge,2023,11,9940
+Redbridge,2023,12,10015
+Redbridge,2024,1,10025
+Redbridge,2024,2,10320
+Redbridge,2024,3,10225
+Redbridge,2024,4,10275
+Redbridge,2024,5,10700
+Redbridge,2024,6,11065
+Redbridge,2024,7,12400
+Redbridge,2024,8,12175
+Redbridge,2024,9,12355
+Redbridge,2024,10,12420
+Redbridge,2024,11,12415
+Redbridge,2024,12,12410
+Richmond upon Thames,2019,1,1805
+Richmond upon Thames,2019,2,1890
+Richmond upon Thames,2019,3,1950
+Richmond upon Thames,2019,4,2025
+Richmond upon Thames,2019,5,1975
+Richmond upon Thames,2019,6,2050
+Richmond upon Thames,2019,7,2065
+Richmond upon Thames,2019,8,2085
+Richmond upon Thames,2019,9,2095
+Richmond upon Thames,2019,10,2130
+Richmond upon Thames,2019,11,2110
+Richmond upon Thames,2019,12,2055
+Richmond upon Thames,2020,1,2045
+Richmond upon Thames,2020,2,2140
+Richmond upon Thames,2020,3,2205
+Richmond upon Thames,2020,3,2
+Richmond upon Thames,2020,4,3755
+Richmond upon Thames,2020,5,5545
+Richmond upon Thames,2020,5,5
+Richmond upon Thames,2020,6,5515
+Richmond upon Thames,2020,6,5
+Richmond upon Thames,2020,7,5730
+Richmond upon Thames,2020,8,5995
+Richmond upon Thames,2020,9,6090
+Richmond upon Thames,2020,10,5815
+Richmond upon Thames,2020,11,5905
+Richmond upon Thames,2020,12,5940
+Richmond upon Thames,2021,1,5780
+Richmond upon Thames,2021,2,6005
+Richmond upon Thames,2021,3,5955
+Richmond upon Thames,2021,4,5780
+Richmond upon Thames,2021,5,5310
+Richmond upon Thames,2021,5,5
+Richmond upon Thames,2021,6,4875
+Richmond upon Thames,2021,7,4745
+Richmond upon Thames,2021,8,4505
+Richmond upon Thames,2021,9,4200
+Richmond upon Thames,2021,9,4
+Richmond upon Thames,2021,10,3990
+Richmond upon Thames,2021,11,3760
+Richmond upon Thames,2021,12,3560
+Richmond upon Thames,2022,1,3495
+Richmond upon Thames,2022,2,3415
+Richmond upon Thames,2022,3,3270
+Richmond upon Thames,2022,4,3095
+Richmond upon Thames,2022,4,3
+Richmond upon Thames,2022,5,3000
+Richmond upon Thames,2022,5,3
+Richmond upon Thames,2022,6,2930
+Richmond upon Thames,2022,7,2910
+Richmond upon Thames,2022,8,2915
+Richmond upon Thames,2022,9,2890
+Richmond upon Thames,2022,10,2875
+Richmond upon Thames,2022,11,2930
+Richmond upon Thames,2022,12,2970
+Richmond upon Thames,2023,1,2855
+Richmond upon Thames,2023,2,2940
+Richmond upon Thames,2023,3,2990
+Richmond upon Thames,2023,4,3065
+Richmond upon Thames,2023,5,2925
+Richmond upon Thames,2023,6,2915
+Richmond upon Thames,2023,7,2930
+Richmond upon Thames,2023,8,2855
+Richmond upon Thames,2023,9,2855
+Richmond upon Thames,2023,10,2860
+Richmond upon Thames,2023,11,2825
+Richmond upon Thames,2023,12,2870
+Richmond upon Thames,2024,1,2855
+Richmond upon Thames,2024,2,2970
+Richmond upon Thames,2024,3,2960
+Richmond upon Thames,2024,4,2880
+Richmond upon Thames,2024,5,2885
+Richmond upon Thames,2024,6,2880
+Richmond upon Thames,2024,7,3180
+Richmond upon Thames,2024,8,3195
+Richmond upon Thames,2024,9,3250
+Richmond upon Thames,2024,10,3320
+Richmond upon Thames,2024,11,3190
+Richmond upon Thames,2024,12,3085
+Richmond upon Thames,2024,12,3
+Southwark,2019,1,8010
+Southwark,2019,2,8370
+Southwark,2019,3,8300
+Southwark,2019,4,8370
+Southwark,2019,5,8365
+Southwark,2019,6,8560
+Southwark,2019,7,8520
+Southwark,2019,8,8540
+Southwark,2019,9,8640
+Southwark,2019,10,8605
+Southwark,2019,11,8550
+Southwark,2019,12,8415
+Southwark,2020,1,8275
+Southwark,2020,1,4
+Southwark,2020,2,8685
+Southwark,2020,3,8580
+Southwark,2020,4,13710
+Southwark,2020,5,18530
+Southwark,2020,5,9
+Southwark,2020,6,18525
+Southwark,2020,6,9
+Southwark,2020,7,19075
+Southwark,2020,8,19470
+Southwark,2020,9,19945
+Southwark,2020,10,19605
+Southwark,2020,11,20310
+Southwark,2020,12,20270
+Southwark,2021,1,20195
+Southwark,2021,2,21105
+Southwark,2021,3,21225
+Southwark,2021,4,20900
+Southwark,2021,5,19640
+Southwark,2021,5,10
+Southwark,2021,6,18155
+Southwark,2021,7,17480
+Southwark,2021,8,16610
+Southwark,2021,9,15750
+Southwark,2021,9,8
+Southwark,2021,10,15170
+Southwark,2021,11,14520
+Southwark,2021,12,13995
+Southwark,2022,1,13590
+Southwark,2022,2,13600
+Southwark,2022,3,13135
+Southwark,2022,4,12475
+Southwark,2022,5,12195
+Southwark,2022,6,11775
+Southwark,2022,7,11430
+Southwark,2022,7,6
+Southwark,2022,8,11330
+Southwark,2022,8,6
+Southwark,2022,9,11435
+Southwark,2022,9,6
+Southwark,2022,10,11320
+Southwark,2022,10,6
+Southwark,2022,11,11240
+Southwark,2022,12,11175
+Southwark,2023,1,10980
+Southwark,2023,2,11325
+Southwark,2023,3,11455
+Southwark,2023,4,11605
+Southwark,2023,4,6
+Southwark,2023,5,11275
+Southwark,2023,6,11330
+Southwark,2023,7,11405
+Southwark,2023,8,11265
+Southwark,2023,9,11420
+Southwark,2023,10,11550
+Southwark,2023,10,6
+Southwark,2023,11,11530
+Southwark,2023,11,6
+Southwark,2023,12,11640
+Southwark,2023,12,6
+Southwark,2024,1,11640
+Southwark,2024,2,12040
+Southwark,2024,3,12060
+Southwark,2024,4,11925
+Southwark,2024,5,12140
+Southwark,2024,6,12475
+Southwark,2024,7,13550
+Southwark,2024,8,13440
+Southwark,2024,9,13480
+Southwark,2024,10,13485
+Southwark,2024,11,13350
+Southwark,2024,12,13180
+Southwark,2024,12,7
+Sutton,2019,1,3020
+Sutton,2019,2,3230
+Sutton,2019,3,3185
+Sutton,2019,4,3115
+Sutton,2019,5,3155
+Sutton,2019,6,3215
+Sutton,2019,7,3185
+Sutton,2019,8,3165
+Sutton,2019,9,3175
+Sutton,2019,10,3200
+Sutton,2019,11,3160
+Sutton,2019,12,3125
+Sutton,2020,1,3100
+Sutton,2020,2,3160
+Sutton,2020,3,3155
+Sutton,2020,4,5330
+Sutton,2020,5,7550
+Sutton,2020,6,7005
+Sutton,2020,7,7230
+Sutton,2020,8,7535
+Sutton,2020,9,7605
+Sutton,2020,10,7225
+Sutton,2020,11,7400
+Sutton,2020,12,7355
+Sutton,2021,1,7190
+Sutton,2021,2,7600
+Sutton,2021,3,7610
+Sutton,2021,4,7415
+Sutton,2021,5,6830
+Sutton,2021,6,6100
+Sutton,2021,7,5990
+Sutton,2021,8,5695
+Sutton,2021,9,5325
+Sutton,2021,10,5055
+Sutton,2021,11,4765
+Sutton,2021,12,4485
+Sutton,2022,1,4300
+Sutton,2022,2,4225
+Sutton,2022,3,3980
+Sutton,2022,4,3805
+Sutton,2022,5,3775
+Sutton,2022,6,3740
+Sutton,2022,7,3705
+Sutton,2022,8,3660
+Sutton,2022,9,3660
+Sutton,2022,10,3625
+Sutton,2022,11,3640
+Sutton,2022,12,3740
+Sutton,2023,1,3675
+Sutton,2023,2,3775
+Sutton,2023,3,3840
+Sutton,2023,4,3995
+Sutton,2023,5,3865
+Sutton,2023,6,3890
+Sutton,2023,7,3955
+Sutton,2023,8,3880
+Sutton,2023,9,3895
+Sutton,2023,10,3910
+Sutton,2023,11,3865
+Sutton,2023,12,3925
+Sutton,2024,1,3910
+Sutton,2024,2,4080
+Sutton,2024,3,4090
+Sutton,2024,4,4090
+Sutton,2024,5,4205
+Sutton,2024,6,4275
+Sutton,2024,7,4730
+Sutton,2024,8,4665
+Sutton,2024,9,4730
+Sutton,2024,10,4650
+Sutton,2024,11,4620
+Sutton,2024,12,4575
+Tower Hamlets,2019,1,7010
+Tower Hamlets,2019,1,4
+Tower Hamlets,2019,2,7305
+Tower Hamlets,2019,3,7310
+Tower Hamlets,2019,4,7345
+Tower Hamlets,2019,5,7475
+Tower Hamlets,2019,6,7635
+Tower Hamlets,2019,7,7750
+Tower Hamlets,2019,8,7805
+Tower Hamlets,2019,9,7905
+Tower Hamlets,2019,10,8025
+Tower Hamlets,2019,11,8050
+Tower Hamlets,2019,12,7935
+Tower Hamlets,2020,1,8010
+Tower Hamlets,2020,2,8265
+Tower Hamlets,2020,3,8315
+Tower Hamlets,2020,4,14515
+Tower Hamlets,2020,5,18950
+Tower Hamlets,2020,6,18975
+Tower Hamlets,2020,7,19565
+Tower Hamlets,2020,8,19950
+Tower Hamlets,2020,9,20280
+Tower Hamlets,2020,10,20260
+Tower Hamlets,2020,11,21110
+Tower Hamlets,2020,12,21190
+Tower Hamlets,2021,1,20950
+Tower Hamlets,2021,2,21860
+Tower Hamlets,2021,3,22065
+Tower Hamlets,2021,4,21835
+Tower Hamlets,2021,5,20655
+Tower Hamlets,2021,6,19445
+Tower Hamlets,2021,7,19165
+Tower Hamlets,2021,8,18295
+Tower Hamlets,2021,9,17245
+Tower Hamlets,2021,10,16525
+Tower Hamlets,2021,11,15605
+Tower Hamlets,2021,12,15010
+Tower Hamlets,2022,1,14475
+Tower Hamlets,2022,2,14600
+Tower Hamlets,2022,3,14100
+Tower Hamlets,2022,4,13410
+Tower Hamlets,2022,4,7
+Tower Hamlets,2022,5,13085
+Tower Hamlets,2022,6,12595
+Tower Hamlets,2022,7,12240
+Tower Hamlets,2022,8,12175
+Tower Hamlets,2022,9,12165
+Tower Hamlets,2022,10,12075
+Tower Hamlets,2022,11,12160
+Tower Hamlets,2022,12,12155
+Tower Hamlets,2023,1,11725
+Tower Hamlets,2023,2,11745
+Tower Hamlets,2023,3,11945
+Tower Hamlets,2023,4,12275
+Tower Hamlets,2023,4,7
+Tower Hamlets,2023,5,12075
+Tower Hamlets,2023,6,12420
+Tower Hamlets,2023,7,12825
+Tower Hamlets,2023,8,12855
+Tower Hamlets,2023,9,13030
+Tower Hamlets,2023,10,12885
+Tower Hamlets,2023,11,12895
+Tower Hamlets,2023,12,13130
+Tower Hamlets,2024,1,13065
+Tower Hamlets,2024,2,13420
+Tower Hamlets,2024,3,13630
+Tower Hamlets,2024,4,13445
+Tower Hamlets,2024,5,13910
+Tower Hamlets,2024,6,14240
+Tower Hamlets,2024,7,16385
+Tower Hamlets,2024,8,16160
+Tower Hamlets,2024,9,16855
+Tower Hamlets,2024,10,17455
+Tower Hamlets,2024,11,17200
+Tower Hamlets,2024,12,17030
+Waltham Forest,2019,1,4785
+Waltham Forest,2019,2,5035
+Waltham Forest,2019,3,5240
+Waltham Forest,2019,4,5385
+Waltham Forest,2019,5,5450
+Waltham Forest,2019,6,5700
+Waltham Forest,2019,7,5675
+Waltham Forest,2019,8,5725
+Waltham Forest,2019,9,5835
+Waltham Forest,2019,10,5905
+Waltham Forest,2019,11,5985
+Waltham Forest,2019,12,6100
+Waltham Forest,2020,1,6085
+Waltham Forest,2020,1,4
+Waltham Forest,2020,2,6340
+Waltham Forest,2020,3,6445
+Waltham Forest,2020,4,12185
+Waltham Forest,2020,4,8
+Waltham Forest,2020,5,17435
+Waltham Forest,2020,6,16920
+Waltham Forest,2020,7,17330
+Waltham Forest,2020,8,17885
+Waltham Forest,2020,9,18060
+Waltham Forest,2020,10,17605
+Waltham Forest,2020,11,18400
+Waltham Forest,2020,11,12
+Waltham Forest,2020,12,18855
+Waltham Forest,2021,1,18390
+Waltham Forest,2021,2,19465
+Waltham Forest,2021,3,19665
+Waltham Forest,2021,4,19445
+Waltham Forest,2021,5,18355
+Waltham Forest,2021,6,16665
+Waltham Forest,2021,7,16380
+Waltham Forest,2021,8,15635
+Waltham Forest,2021,9,14645
+Waltham Forest,2021,10,13970
+Waltham Forest,2021,11,13225
+Waltham Forest,2021,12,12615
+Waltham Forest,2021,12,8
+Waltham Forest,2022,1,12140
+Waltham Forest,2022,2,12085
+Waltham Forest,2022,3,11455
+Waltham Forest,2022,4,10755
+Waltham Forest,2022,5,10415
+Waltham Forest,2022,5,7
+Waltham Forest,2022,6,10230
+Waltham Forest,2022,7,9955
+Waltham Forest,2022,8,10020
+Waltham Forest,2022,9,10110
+Waltham Forest,2022,10,10300
+Waltham Forest,2022,11,10385
+Waltham Forest,2022,11,7
+Waltham Forest,2022,12,10560
+Waltham Forest,2023,1,10345
+Waltham Forest,2023,2,10550
+Waltham Forest,2023,3,10775
+Waltham Forest,2023,4,11385
+Waltham Forest,2023,5,11095
+Waltham Forest,2023,6,11300
+Waltham Forest,2023,7,11495
+Waltham Forest,2023,8,11430
+Waltham Forest,2023,9,11595
+Waltham Forest,2023,10,11655
+Waltham Forest,2023,11,11625
+Waltham Forest,2023,12,11650
+Waltham Forest,2024,1,11650
+Waltham Forest,2024,1,7
+Waltham Forest,2024,2,12030
+Waltham Forest,2024,3,12140
+Waltham Forest,2024,4,11955
+Waltham Forest,2024,5,12285
+Waltham Forest,2024,6,12640
+Waltham Forest,2024,7,13765
+Waltham Forest,2024,8,13540
+Waltham Forest,2024,9,13515
+Waltham Forest,2024,10,13645
+Waltham Forest,2024,11,13530
+Waltham Forest,2024,12,13355
+Waltham Forest,2024,12,8
+Wandsworth,2019,1,3890
+Wandsworth,2019,2,4045
+Wandsworth,2019,2,2
+Wandsworth,2019,3,4170
+Wandsworth,2019,3,2
+Wandsworth,2019,4,4245
+Wandsworth,2019,4,2
+Wandsworth,2019,5,4290
+Wandsworth,2019,6,4440
+Wandsworth,2019,7,4530
+Wandsworth,2019,8,4650
+Wandsworth,2019,9,4710
+Wandsworth,2019,10,4855
+Wandsworth,2019,11,4880
+Wandsworth,2019,12,4860
+Wandsworth,2020,1,4830
+Wandsworth,2020,2,5100
+Wandsworth,2020,3,5145
+Wandsworth,2020,4,8275
+Wandsworth,2020,5,13370
+Wandsworth,2020,6,13310
+Wandsworth,2020,7,13575
+Wandsworth,2020,8,13950
+Wandsworth,2020,9,14055
+Wandsworth,2020,10,13650
+Wandsworth,2020,11,14050
+Wandsworth,2020,12,14215
+Wandsworth,2021,1,13990
+Wandsworth,2021,2,14635
+Wandsworth,2021,3,14540
+Wandsworth,2021,4,14215
+Wandsworth,2021,4,7
+Wandsworth,2021,5,13295
+Wandsworth,2021,6,12185
+Wandsworth,2021,6,6
+Wandsworth,2021,7,11815
+Wandsworth,2021,8,11245
+Wandsworth,2021,9,10750
+Wandsworth,2021,10,10280
+Wandsworth,2021,10,5
+Wandsworth,2021,11,9770
+Wandsworth,2021,12,9260
+Wandsworth,2022,1,8985
+Wandsworth,2022,2,9015
+Wandsworth,2022,3,8675
+Wandsworth,2022,3,4
+Wandsworth,2022,4,8335
+Wandsworth,2022,5,8060
+Wandsworth,2022,6,8000
+Wandsworth,2022,7,7880
+Wandsworth,2022,8,7860
+Wandsworth,2022,9,7880
+Wandsworth,2022,10,7760
+Wandsworth,2022,11,7715
+Wandsworth,2022,12,7645
+Wandsworth,2023,1,7535
+Wandsworth,2023,2,7655
+Wandsworth,2023,3,7740
+Wandsworth,2023,4,7885
+Wandsworth,2023,5,7845
+Wandsworth,2023,6,7920
+Wandsworth,2023,7,7930
+Wandsworth,2023,8,7990
+Wandsworth,2023,9,8115
+Wandsworth,2023,10,8155
+Wandsworth,2023,11,8195
+Wandsworth,2023,12,8155
+Wandsworth,2024,1,8140
+Wandsworth,2024,2,8375
+Wandsworth,2024,2,4
+Wandsworth,2024,3,8390
+Wandsworth,2024,3,4
+Wandsworth,2024,4,8335
+Wandsworth,2024,5,8445
+Wandsworth,2024,5,4
+Wandsworth,2024,6,8605
+Wandsworth,2024,7,9390
+Wandsworth,2024,8,9385
+Wandsworth,2024,9,9675
+Wandsworth,2024,10,9945
+Wandsworth,2024,11,10065
+Wandsworth,2024,12,10150
+Westminster,2019,1,3055
+Westminster,2019,2,3240
+Westminster,2019,3,3375
+Westminster,2019,4,3430
+Westminster,2019,5,3495
+Westminster,2019,6,3620
+Westminster,2019,7,3680
+Westminster,2019,8,3760
+Westminster,2019,9,3750
+Westminster,2019,10,3775
+Westminster,2019,11,3770
+Westminster,2019,12,3825
+Westminster,2020,1,3785
+Westminster,2020,2,3685
+Westminster,2020,3,3800
+Westminster,2020,4,6015
+Westminster,2020,5,9185
+Westminster,2020,6,9345
+Westminster,2020,7,9620
+Westminster,2020,8,9750
+Westminster,2020,9,9990
+Westminster,2020,10,9875
+Westminster,2020,11,10240
+Westminster,2020,12,10600
+Westminster,2021,1,10615
+Westminster,2021,2,11035
+Westminster,2021,3,11100
+Westminster,2021,4,11015
+Westminster,2021,5,10490
+Westminster,2021,6,9900
+Westminster,2021,7,9600
+Westminster,2021,8,8970
+Westminster,2021,8,7
+Westminster,2021,9,8560
+Westminster,2021,10,8250
+Westminster,2021,11,8005
+Westminster,2021,12,7770
+Westminster,2022,1,7485
+Westminster,2022,2,7365
+Westminster,2022,2,6
+Westminster,2022,3,7160
+Westminster,2022,4,6885
+Westminster,2022,5,6725
+Westminster,2022,6,6540
+Westminster,2022,7,6335
+Westminster,2022,8,6300
+Westminster,2022,9,6225
+Westminster,2022,9,5
+Westminster,2022,10,6180
+Westminster,2022,10,5
+Westminster,2022,11,6160
+Westminster,2022,11,5
+Westminster,2022,12,6105
+Westminster,2023,1,5990
+Westminster,2023,2,6080
+Westminster,2023,3,6095
+Westminster,2023,4,6130
+Westminster,2023,5,6020
+Westminster,2023,6,6010
+Westminster,2023,7,6070
+Westminster,2023,8,5980
+Westminster,2023,9,6040
+Westminster,2023,10,6110
+Westminster,2023,11,6140
+Westminster,2023,12,6205
+Westminster,2024,1,6225
+Westminster,2024,2,6310
+Westminster,2024,3,6305
+Westminster,2024,4,6205
+Westminster,2024,5,6285
+Westminster,2024,6,6365
+Westminster,2024,7,7130
+Westminster,2024,8,6845
+Westminster,2024,8,5
+Westminster,2024,9,6620
+Westminster,2024,10,6625
+Westminster,2024,11,6615
+Westminster,2024,12,6650

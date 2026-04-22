@@ -1,0 +1,150 @@
+/Users/oliver/Documents/bee2041-london-crime-project/.venv/lib/python3.12/site-packages/openpyxl/styles/stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+
+Loading crime_recent: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/crime/mps_borough_recent.csv
+
+======================================================================
+DATASET: crime_recent
+======================================================================
+Shape: (1026, 27)
+
+Columns:
+['MajorText', 'MinorText', 'BoroughName', '202404', '202405', '202406', '202407', '202408', '202409', '202410', '202411', '202412', '202501', '202502', '202503', '202504', '202505', '202506', '202507', '202508', '202509', '202510', '202511', '202512', '202601', '202602', '202603']
+
+First 5 rows:
+                   MajorText  ... 202603
+0  ARSON AND CRIMINAL DAMAGE  ...      3
+1  ARSON AND CRIMINAL DAMAGE  ...    110
+2                   BURGLARY  ...     21
+3                   BURGLARY  ...     46
+4                   BURGLARY  ...     14
+
+[5 rows x 27 columns]
+
+Missing values:
+MajorText    0
+202503       0
+202602       0
+202601       0
+202512       0
+202511       0
+202510       0
+202509       0
+202508       0
+202507       0
+dtype: int64
+
+Duplicate rows: 0
+
+Loading crime_historical: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/crime/mps_borough_historical.csv
+
+======================================================================
+DATASET: crime_historical
+======================================================================
+Shape: (1092, 171)
+
+Columns:
+['MajorText', 'MinorText', 'BoroughName', '201004', '201005', '201006', '201007', '201008', '201009', '201010', '201011', '201012', '201101', '201102', '201103', '201104', '201105', '201106', '201107', '201108', '201109', '201110', '201111', '201112', '201201', '201202', '201203', '201204', '201205', '201206', '201207', '201208', '201209', '201210', '201211', '201212', '201301', '201302', '201303', '201304', '201305', '201306', '201307', '201308', '201309', '201310', '201311', '201312', '201401', '201402', '201403', '201404', '201405', '201406', '201407', '201408', '201409', '201410', '201411', '201412', '201501', '201502', '201503', '201504', '201505', '201506', '201507', '201508', '201509', '201510', '201511', '201512', '201601', '201602', '201603', '201604', '201605', '201606', '201607', '201608', '201609', '201610', '201611', '201612', '201701', '201702', '201703', '201704', '201705', '201706', '201707', '201708', '201709', '201710', '201711', '201712', '201801', '201802', '201803', '201804', '201805', '201806', '201807', '201808', '201809', '201810', '201811', '201812', '201901', '201902', '201903', '201904', '201905', '201906', '201907', '201908', '201909', '201910', '201911', '201912', '202001', '202002', '202003', '202004', '202005', '202006', '202007', '202008', '202009', '202010', '202011', '202012', '202101', '202102', '202103', '202104', '202105', '202106', '202107', '202108', '202109', '202110', '202111', '202112', '202201', '202202', '202203', '202204', '202205', '202206', '202207', '202208', '202209', '202210', '202211', '202212', '202301', '202302', '202303', '202304', '202305', '202306', '202307', '202308', '202309', '202310', '202311', '202312', '202401', '202402', '202403']
+
+First 5 rows:
+                   MajorText                        MinorText  ... 202402  202403
+0  ARSON AND CRIMINAL DAMAGE                            ARSON  ...      5       6
+1  ARSON AND CRIMINAL DAMAGE                  CRIMINAL DAMAGE  ...    124     134
+2                   BURGLARY  BURGLARY BUSINESS AND COMMUNITY  ...     21      30
+3                   BURGLARY                DOMESTIC BURGLARY  ...      0       0
+4                   BURGLARY           RES BURGLARY OF A HOME  ...     33      45
+
+[5 rows x 171 columns]
+
+Missing values:
+MajorText    0
+201910       0
+201902       0
+201903       0
+201904       0
+201905       0
+201906       0
+201907       0
+201908       0
+201909       0
+dtype: int64
+
+Duplicate rows: 0
+
+Loading population: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/population/.DS_Store
+Error: Unsupported file type: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/population/.DS_Store
+
+Loading density: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/density/land-area-population-density-london.xlsx
+
+======================================================================
+DATASET: density
+======================================================================
+Shape: (29, 2)
+
+Columns:
+['Name', 'Population Density (GLA estimates/projections)']
+
+First 5 rows:
+        Name Population Density (GLA estimates/projections)
+0  ShortName                             Population density
+1        NaN                                            NaN
+2        NaN                                            NaN
+3        NaN                                            NaN
+4      Theme                                     Demography
+
+Missing values:
+Name                                              8
+Population Density (GLA estimates/projections)    7
+dtype: int64
+
+Duplicate rows: 5
+
+Loading labour: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/labour/nomis_2026_04_20_234925.xlsx
+
+======================================================================
+DATASET: labour
+======================================================================
+Shape: (20, 5)
+
+Columns:
+['Claimant Count - seasonally adjusted', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4']
+
+First 5 rows:
+                Claimant Count - seasonally adjusted  ... Unnamed: 4
+0  ONS Crown Copyright Reserved [from Nomis on 20...  ...        NaN
+1                                                NaN  ...        NaN
+2                                                sex  ...        NaN
+3                                               rate  ...        NaN
+4                                                NaN  ...        NaN
+
+[5 rows x 5 columns]
+
+Missing values:
+Unnamed: 2                              13
+Unnamed: 4                              13
+Unnamed: 3                              12
+Unnamed: 1                              10
+Claimant Count - seasonally adjusted     4
+dtype: int64
+
+Duplicate rows: 2
+
+Loading deprivation: /Users/oliver/Documents/bee2041-london-crime-project/data/raw/deprivation/id_2019_london.xlsx
+
+======================================================================
+DATASET: deprivation
+======================================================================
+Shape: (0, 0)
+
+Columns:
+[]
+
+First 5 rows:
+Empty DataFrame
+Columns: []
+Index: []
+
+Missing values:
+Series([], dtype: float64)
+
+Duplicate rows: 0

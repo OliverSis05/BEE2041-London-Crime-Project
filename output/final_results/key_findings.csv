@@ -1,0 +1,14 @@
+metric,value
+Highest average crime per 1000 borough,Westminster
+Highest average crime per 1000 value,28.7656
+Lowest average crime per 1000 borough,Harrow
+Lowest average crime per 1000 value,4.933
+Highest yearly mean crime per 1000,2024 (8.8647)
+Lowest yearly mean crime per 1000,2020 (7.3757)
+Strongest simple correlation,population_density (0.5293)
+Second strongest simple correlation,imd_value (0.2510)
+Weakest simple correlation,claimant_per_1000 (0.1963)
+Strongest model predictor,population_density (0.5946)
+Second strongest model predictor,claimant_per_1000 (-0.1937)
+Weakest model predictor,imd_value (0.0676)
+Model R-squared,0.2937

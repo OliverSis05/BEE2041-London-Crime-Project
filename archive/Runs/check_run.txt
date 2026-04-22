@@ -1,0 +1,104 @@
+
+================================================================================
+FILE: labour_clean.csv
+================================================================================
+Shape: (4752, 4)
+Columns: ['borough', 'year', 'month', 'claimant_count']
+                borough  year  month  claimant_count
+0  Barking And Dagenham  2019      1          4325.0
+1  Barking And Dagenham  2019      1             4.1
+2  Barking And Dagenham  2019      2          4620.0
+3  Barking And Dagenham  2019      2             4.4
+4  Barking And Dagenham  2019      3          4695.0
+
+Missing values:
+borough           0
+year              0
+month             0
+claimant_count    0
+dtype: int64
+
+Duplicate rows: 0
+
+================================================================================
+FILE: deprivation_clean.csv
+================================================================================
+Shape: (33, 2)
+Columns: ['borough', 'imd_value']
+                borough  imd_value
+0  Barking And Dagenham  32.883473
+1                Barnet  15.953626
+2                Bexley  15.882363
+3                 Brent  25.199855
+4               Bromley  13.969447
+
+Missing values:
+borough      0
+imd_value    0
+dtype: int64
+
+Duplicate rows: 0
+
+================================================================================
+FILE: population_clean.csv
+================================================================================
+Shape: (1908, 3)
+Columns: ['borough', 'year', 'population']
+  borough  year  population
+0    Adur  2019       64580
+1    Adur  2020       64550
+2    Adur  2021       64632
+3    Adur  2022       64760
+4    Adur  2023       64688
+
+Missing values:
+borough       0
+year          0
+population    0
+dtype: int64
+
+Duplicate rows: 0
+
+================================================================================
+FILE: density_clean.csv
+================================================================================
+Shape: (48, 2)
+Columns: ['borough', 'population_density']
+                borough  population_density
+0  Barking And Dagenham         5892.712927
+1                Barnet         4577.022673
+2                Bexley         4126.712502
+3                 Brent         7791.775459
+4               Bromley         2216.226991
+
+Missing values:
+borough               0
+population_density    0
+dtype: int64
+
+Duplicate rows: 0
+
+================================================================================
+FILE: crime_clean.csv
+================================================================================
+Shape: (78030, 6)
+Columns: ['borough', 'year', 'month', 'crime_type', 'crime_subtype', 'crime_count']
+                borough  year  ...                    crime_subtype crime_count
+0  Barking And Dagenham  2019  ...                            ARSON         4.0
+1  Barking And Dagenham  2019  ...                  CRIMINAL DAMAGE        96.0
+2  Barking And Dagenham  2019  ...  BURGLARY BUSINESS AND COMMUNITY        47.0
+3  Barking And Dagenham  2019  ...                DOMESTIC BURGLARY       114.0
+4  Barking And Dagenham  2019  ...           RES BURGLARY OF A HOME         0.0
+
+[5 rows x 6 columns]
+
+Missing values:
+borough          0
+year             0
+month            0
+crime_type       0
+crime_subtype    0
+crime_count      0
+dtype: int64
+
+Duplicate rows: 0

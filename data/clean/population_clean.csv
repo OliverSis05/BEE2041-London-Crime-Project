@@ -1,0 +1,199 @@
+borough,year,population
+Barking and Dagenham,2019,218828
+Barking and Dagenham,2020,219227
+Barking and Dagenham,2021,218714
+Barking and Dagenham,2022,220392
+Barking and Dagenham,2023,226301
+Barking and Dagenham,2024,232747
+Barnet,2019,390590
+Barnet,2020,391046
+Barnet,2021,388955
+Barnet,2022,390371
+Barnet,2023,398191
+Barnet,2024,405050
+Bexley,2019,246622
+Bexley,2020,246924
+Bexley,2021,246637
+Bexley,2022,247875
+Bexley,2023,252124
+Bexley,2024,256434
+Brent,2019,347424
+Brent,2020,343988
+Brent,2021,339248
+Brent,2022,341505
+Brent,2023,348751
+Brent,2024,352976
+Bromley,2019,331192
+Bromley,2020,331247
+Bromley,2021,329899
+Bromley,2022,329930
+Bromley,2023,332482
+Bromley,2024,335319
+Camden,2019,217136
+Camden,2020,214768
+Camden,2021,210968
+Camden,2022,217352
+Camden,2023,217235
+Camden,2024,216943
+City of London,2019,8765
+City of London,2020,8331
+City of London,2021,8689
+City of London,2022,11615
+City of London,2023,13606
+City of London,2024,15111
+Croydon,2019,390643
+Croydon,2020,392101
+Croydon,2021,390691
+Croydon,2022,393547
+Croydon,2023,402217
+Croydon,2024,409342
+Ealing,2019,367284
+Ealing,2020,367936
+Ealing,2021,366762
+Ealing,2022,370315
+Ealing,2023,379203
+Ealing,2024,385985
+Enfield,2019,335151
+Enfield,2020,333149
+Enfield,2021,329876
+Enfield,2022,326867
+Enfield,2023,328014
+Enfield,2024,327434
+Greenwich,2019,288205
+Greenwich,2020,288384
+Greenwich,2021,289537
+Greenwich,2022,292381
+Greenwich,2023,296420
+Greenwich,2024,299528
+Hackney,2019,265825
+Hackney,2020,263782
+Hackney,2021,260082
+Hackney,2022,261814
+Hackney,2023,265411
+Hackney,2024,266758
+Hammersmith and Fulham,2019,188562
+Hammersmith and Fulham,2020,186555
+Hammersmith and Fulham,2021,183310
+Hammersmith and Fulham,2022,185822
+Hammersmith and Fulham,2023,187479
+Hammersmith and Fulham,2024,188687
+Haringey,2019,273716
+Haringey,2020,269534
+Haringey,2021,264317
+Haringey,2022,262078
+Haringey,2023,263362
+Haringey,2024,263850
+Harrow,2019,262065
+Harrow,2020,262281
+Harrow,2021,261159
+Harrow,2022,261798
+Harrow,2023,266891
+Harrow,2024,270724
+Havering,2019,261296
+Havering,2020,261906
+Havering,2021,262086
+Havering,2022,264786
+Havering,2023,270305
+Havering,2024,276274
+Hillingdon,2019,305641
+Hillingdon,2020,306460
+Hillingdon,2021,305107
+Hillingdon,2022,312162
+Hillingdon,2023,321977
+Hillingdon,2024,329185
+Hounslow,2019,289652
+Hounslow,2020,289773
+Hounslow,2021,288164
+Hounslow,2022,289196
+Hounslow,2023,295221
+Hounslow,2024,299424
+Islington,2019,221994
+Islington,2020,221018
+Islington,2021,217050
+Islington,2022,219769
+Islington,2023,222333
+Islington,2024,223024
+Kensington and Chelsea,2019,146805
+Kensington and Chelsea,2020,144874
+Kensington and Chelsea,2021,144266
+Kensington and Chelsea,2022,146336
+Kensington and Chelsea,2023,146499
+Kensington and Chelsea,2024,144518
+Kingston upon Thames,2019,169797
+Kingston upon Thames,2020,169770
+Kingston upon Thames,2021,167992
+Kingston upon Thames,2022,169076
+Kingston upon Thames,2023,170780
+Kingston upon Thames,2024,172692
+Lambeth,2019,329513
+Lambeth,2020,325527
+Lambeth,2021,317691
+Lambeth,2022,317657
+Lambeth,2023,318738
+Lambeth,2024,316920
+Lewisham,2019,305906
+Lewisham,2020,304169
+Lewisham,2021,300013
+Lewisham,2022,299164
+Lewisham,2023,300225
+Lewisham,2024,301255
+Merton,2019,217219
+Merton,2020,217101
+Merton,2021,215426
+Merton,2022,215105
+Merton,2023,217135
+Merton,2024,218539
+Newham,2019,349786
+Newham,2020,350025
+Newham,2021,351256
+Newham,2022,357327
+Newham,2023,368194
+Newham,2024,374523
+Redbridge,2019,311780
+Redbridge,2020,311750
+Redbridge,2021,310130
+Redbridge,2022,311629
+Redbridge,2023,316556
+Redbridge,2024,321231
+Richmond upon Thames,2019,198185
+Richmond upon Thames,2020,197797
+Richmond upon Thames,2021,195315
+Richmond upon Thames,2022,195295
+Richmond upon Thames,2023,196061
+Richmond upon Thames,2024,196678
+Southwark,2019,312591
+Southwark,2020,312055
+Southwark,2021,306762
+Southwark,2022,309327
+Southwark,2023,313485
+Southwark,2024,314786
+Sutton,2019,208516
+Sutton,2020,209921
+Sutton,2021,209617
+Sutton,2022,210369
+Sutton,2023,212336
+Sutton,2024,214525
+Tower Hamlets,2019,305066
+Tower Hamlets,2020,306780
+Tower Hamlets,2021,312715
+Tower Hamlets,2022,324881
+Tower Hamlets,2023,329143
+Tower Hamlets,2024,331886
+Waltham Forest,2019,281015
+Waltham Forest,2020,279527
+Waltham Forest,2021,278147
+Waltham Forest,2022,275847
+Waltham Forest,2023,278506
+Waltham Forest,2024,279737
+Wandsworth,2019,334558
+Wandsworth,2020,333678
+Wandsworth,2021,328429
+Wandsworth,2022,330447
+Wandsworth,2023,333859
+Wandsworth,2024,337655
+Westminster,2019,208415
+Westminster,2020,205624
+Westminster,2021,205759
+Westminster,2022,209333
+Westminster,2023,210665
+Westminster,2024,209996

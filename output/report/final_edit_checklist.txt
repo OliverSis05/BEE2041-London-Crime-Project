@@ -1,0 +1,10 @@
+FINAL EDIT CHECKLIST
+
+1. Replace the title with your preferred final title if needed.
+2. Check the wording matches your module brief exactly.
+3. Add any required academic references if your module expects them.
+4. Add the best 3 or 4 figures into the final submission.
+5. Keep the answer focused on the research question.
+6. Make sure you clearly explain why population_density is the strongest predictor.
+7. Keep the causality warning in the limitations section.
+8. Proofread the final markdown file before submission.
