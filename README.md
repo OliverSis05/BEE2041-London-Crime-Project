@@ -261,4 +261,4 @@ In the final comparison:
 - population density is the strongest simple relationship
 - population density is also the strongest predictor in the combined model
 - deprivation remains positively related to crime, but is weaker once the predictors are compared together
-- claimant rate does not emerge as the dominant explanation
+- claimant rate does not emerge as the dominant explanation# BEE2041-London-Crime-Project
