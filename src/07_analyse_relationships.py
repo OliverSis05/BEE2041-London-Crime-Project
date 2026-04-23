@@ -19,9 +19,7 @@ DATA_PATH = FINAL / "london_borough_month_panel.csv"
 df = pd.read_csv(DATA_PATH)
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
-# ============================================================
 # 1. BOROUGH-LEVEL AVERAGES
-# ============================================================
 
 borough_df = (
     df.groupby("borough", as_index=False)
@@ -41,9 +39,7 @@ print("=" * 80)
 print("Shape:", borough_df.shape)
 print(borough_df.head(10).to_string(index=False))
 
-# ============================================================
 # 2. SIMPLE CORRELATIONS
-# ============================================================
 
 predictors = ["claimant_per_1000", "population_density", "imd_value"]
 
@@ -65,9 +61,7 @@ print("SIMPLE CORRELATIONS WITH CRIME PER 1000")
 print("=" * 80)
 print(simple_corrs_df.to_string(index=False))
 
-# ============================================================
 # 3. STANDARDISED MULTIPLE REGRESSION USING NUMPY
-# ============================================================
 
 analysis_df = borough_df[["crime_per_1000", "claimant_per_1000", "population_density", "imd_value"]].copy()
 
@@ -104,9 +98,7 @@ r_squared = 1 - (ss_resid / ss_total)
 
 print("\nR-squared:", round(r_squared, 4))
 
-# ============================================================
 # 4. RANK PREDICTORS BY ABSOLUTE EFFECT SIZE
-# ============================================================
 
 ranked_effects = coef_df[coef_df["term"] != "intercept"].copy()
 ranked_effects["abs_effect"] = ranked_effects["standardised_coefficient"].abs()
@@ -119,9 +111,7 @@ print("RANKED PREDICTOR EFFECTS")
 print("=" * 80)
 print(ranked_effects.to_string(index=False))
 
-# ============================================================
 # 5. CHARTS
-# ============================================================
 
 # Bar chart of absolute effect sizes
 plt.figure(figsize=(8, 5))
@@ -146,9 +136,7 @@ for col in predictors:
     plt.savefig(FIGURES / f"{col}_vs_crime_per_1000.png", dpi=300)
     plt.close()
 
-# ============================================================
 # 6. QUICK CONCLUSION
-# ============================================================
 
 strongest = ranked_effects.iloc[0]
 weakest = ranked_effects.iloc[-1]

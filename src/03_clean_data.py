@@ -116,13 +116,7 @@ def find_col(columns, candidates):
             return c
     return None
 
-# ============================================================
 # 1. CLEAN CRIME DATA
-# ============================================================
-
-# ============================================================
-# 1. CLEAN CRIME DATA
-# ============================================================
 
 crime_recent_path = RAW / "crime" / "mps_borough_recent.csv"
 crime_historical_path = RAW / "crime" / "mps_borough_historical.csv"
@@ -206,13 +200,7 @@ crime = crime.sort_values(
 print_check("CLEAN CRIME DATA", crime)
 save_clean(crime, "crime_clean.csv")
 
-# ============================================================
 # 2. CLEAN POPULATION DATA
-# ============================================================
-
-# ============================================================
-# 2. CLEAN POPULATION DATA
-# ============================================================
 
 population_file = next((RAW / "population").glob("*.xlsx"))
 
@@ -261,13 +249,7 @@ population = population.sort_values(["borough", "year"]).reset_index(drop=True)
 print_check("CLEAN POPULATION DATA", population)
 save_clean(population, "population_clean.csv")
 
-# ============================================================
 # 3. CLEAN DENSITY DATA
-# ============================================================
-
-# ============================================================
-# 3. CLEAN DENSITY DATA
-# ============================================================
 
 density_file = next((RAW / "density").glob("*"))
 
@@ -318,18 +300,7 @@ density = density.sort_values("borough").reset_index(drop=True)
 print_check("CLEAN DENSITY DATA", density)
 save_clean(density, "density_clean.csv")
 
-
-# ============================================================
 # 4. CLEAN LABOUR DATA
-# ============================================================
-
-# ============================================================
-# 4. CLEAN LABOUR DATA
-# ============================================================
-
-# ============================================================
-# 4. CLEAN LABOUR DATA
-# ============================================================
 
 labour_file = next((RAW / "labour").glob("*"))
 
@@ -407,13 +378,7 @@ labour = labour.sort_values(["borough", "year", "month"]).reset_index(drop=True)
 print_check("CLEAN LABOUR DATA", labour)
 save_clean(labour, "labour_clean.csv")
 
-# ============================================================
 # 5. CLEAN DEPRIVATION DATA
-# ============================================================
-
-# ============================================================
-# 5. CLEAN DEPRIVATION DATA
-# ============================================================
 
 deprivation_file = list((RAW / "deprivation").glob("*"))[0]
 

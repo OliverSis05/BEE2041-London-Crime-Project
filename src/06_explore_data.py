@@ -37,9 +37,7 @@ print("\nDuplicate rows:", df.duplicated().sum())
 print("Unique boroughs:", df["borough"].nunique())
 print("Year range:", df["year"].min(), "to", df["year"].max())
 
-# ============================================================
 # 1. SUMMARY STATISTICS
-# ============================================================
 
 numeric_cols = [
     "crime_count",
@@ -59,9 +57,7 @@ print("SUMMARY STATISTICS")
 print("=" * 80)
 print(summary_stats)
 
-# ============================================================
 # 2. BOROUGH-LEVEL SUMMARY
-# ============================================================
 
 borough_summary = (
     df.groupby("borough", as_index=False)
@@ -89,9 +85,7 @@ print("BOTTOM 10 BOROUGHS BY AVERAGE CRIME PER 1000")
 print("=" * 80)
 print(borough_summary.tail(10).to_string(index=False))
 
-# ============================================================
 # 3. TIME TRENDS
-# ============================================================
 
 monthly_summary = (
     df.groupby("date", as_index=False)
@@ -124,9 +118,7 @@ print("YEARLY SUMMARY")
 print("=" * 80)
 print(yearly_summary.to_string(index=False))
 
-# ============================================================
 # 4. CORRELATIONS
-# ============================================================
 
 corr_cols = [
     "crime_count",
@@ -145,9 +137,7 @@ print("CORRELATION MATRIX")
 print("=" * 80)
 print(corr_matrix)
 
-# ============================================================
 # 5. CHARTS
-# ============================================================
 
 # Chart 1: Total crime over time
 plt.figure(figsize=(12, 6))
@@ -221,9 +211,7 @@ plt.tight_layout()
 plt.savefig(FIGURES / "density_vs_crime_rate.png", dpi=300)
 plt.close()
 
-# ============================================================
 # 6. SAVE KEY OUTPUTS
-# ============================================================
 
 top10_table = borough_summary.head(10)
 bottom10_table = borough_summary.tail(10)
@@ -245,9 +233,7 @@ print("\nSaved figures:")
 for path in sorted(FIGURES.glob("*.png")):
     print("-", path.name)
 
-# ============================================================
 # 7. QUICK TAKEAWAYS
-# ============================================================
 
 highest_borough = borough_summary.iloc[0]
 lowest_borough = borough_summary.iloc[-1]

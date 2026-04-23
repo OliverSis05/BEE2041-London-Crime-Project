@@ -19,9 +19,7 @@ def load_csv(filename: str) -> pd.DataFrame:
 def clean_borough(series: pd.Series) -> pd.Series:
     return series.astype(str).str.strip()
 
-# ============================================================
 # 1. LOAD CLEAN FILES
-# ============================================================
 
 crime = load_csv("crime_clean.csv")
 population = load_csv("population_clean.csv")
@@ -33,9 +31,7 @@ for df in [crime, population, density, labour, deprivation]:
     if "borough" in df.columns:
         df["borough"] = clean_borough(df["borough"])
 
-# ============================================================
 # 2. MAKE CRIME MONTHLY TOTALS
-# ============================================================
 
 crime_monthly = (
     crime.groupby(["borough", "year", "month"], as_index=False)["crime_count"]
@@ -48,9 +44,7 @@ print("=" * 80)
 print("Shape:", crime_monthly.shape)
 print(crime_monthly.head())
 
-# ============================================================
-# 3. FIX LABOUR DUPLICATES IF THEY EXIST
-# ============================================================
+# 3. FIX LABOUR DUPLICATES 
 
 labour_dupes = labour.duplicated(subset=["borough", "year", "month"]).sum()
 print("\nLabour duplicate borough-year-month rows:", labour_dupes)
@@ -64,9 +58,7 @@ if labour_dupes > 0:
 
 print("Labour shape after fix:", labour.shape)
 
-# ============================================================
 # 4. KEEP ONLY BOROUGHS THAT EXIST IN ALL FILES
-# ============================================================
 
 borough_sets = [
     set(crime_monthly["borough"].dropna().unique()),
@@ -90,9 +82,7 @@ density = density[density["borough"].isin(common_boroughs)].copy()
 labour = labour[labour["borough"].isin(common_boroughs)].copy()
 deprivation = deprivation[deprivation["borough"].isin(common_boroughs)].copy()
 
-# ============================================================
 # 5. MERGE EVERYTHING
-# ============================================================
 
 merged = crime_monthly.merge(
     population,
@@ -118,9 +108,7 @@ merged = merged.merge(
     how="left"
 )
 
-# ============================================================
 # 6. ADD USEFUL ANALYSIS COLUMNS
-# ============================================================
 
 merged["date"] = pd.to_datetime(
     dict(year=merged["year"], month=merged["month"], day=1),
@@ -148,9 +136,7 @@ merged = merged[
 
 merged = merged.sort_values(["borough", "year", "month"]).reset_index(drop=True)
 
-# ============================================================
 # 7. SAVE FINAL DATASET
-# ============================================================
 
 output_path = FINAL / "london_borough_month_panel.csv"
 merged.to_csv(output_path, index=False)
